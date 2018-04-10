@@ -14,9 +14,13 @@ article {
 
 	h1 {
 	@extend .font-size-largest;
-	  margin-bottom: 3.456px;
-	  margin-bottom: 0.173rem;
-		text-align: left;
+	    font-family: ministry;
+  font-weight: 200;
+  font-size: 1.35rem;
+  line-height: 1.4rem;
+  margin-top: 1.4rem;
+  margin-bottom: 0rem;
+  text-align: left;
 	  a {
 		color: $text-color;
 	  }
@@ -30,21 +34,13 @@ article {
   }
 
   p.meta {
-	@extend .font-size-medium;
 	@extend .header-font;
 	color: $secondary-text-color;
-	line-height: 1.184rem;
-	font-weight: 200;
-	margin-top: 12px;
-	time {
-	  @extend .margin-bottom-large;
-	}
-	a.category {text-transform:capitalize;}
-	> span:before, > span:after {
-	  padding: 0 4px;
-	  padding: 0 0.2rem; /* not from scale */
+	span.category {
+		text-transform: capitalize;
 	}
   }
+
 
   // ----- post's content -----
 
@@ -101,29 +97,6 @@ article {
 	list-style-type: decimal;
   }
 
-  p {
-	@extend .default-line-height;
-	text-align: left;
-	-webkit-hyphens: auto;
-	   -moz-hyphens: auto;
-		-ms-hyphens: auto;
-			hyphens: auto;
-	a {
-	  text-decoration: none;
-	}
-	a:hover {
-		text-decoration: underline;
-	};
-  }
-
-  p + p {
-	  margin-top: 32px;
-  }
-
-  p + blockquote {
-	  margin-top: 32px;
-  }
-
   p > code, li code {
 	@extend .code-keywords;
 	@extend .code-font;
@@ -139,42 +112,35 @@ article {
 	padding-top: 0.618rem;
 
 
-	// > p.meta {
-// 	  overflow: auto;
-// 	  padding-bottom: 38.319px;
-// 	  padding-bottom: 1.916rem;
-// 	  font-weight: 300;
-// 	  text-align: left;
-// 	  
-// 	  .category {
-// 	  text-transform: capitalize;
-// 	  }
-// 
-// 	  &:first-child {
-// 		@extend .font-size-smallest;
-// 		@extend .margin-bottom-large;
-// 		padding-bottom: 14.637px;
-// 		padding-bottom: 0.732rem;
-// 
-// 
-// 	  }
-// 	}
+	> p.meta {
+	  overflow: auto;
+	  font-weight: 300;
+	  text-align: left;
+	  	  font-size: 0.8rem;
+  line-height: 1.2rem;
+	font-weight: 200;
+	font-style: italic;
+	
+	}
 
 	a.basic-alignment {
+		@extend .button;
 	  text-decoration: none;
+	  font-style: normal;
 	  width: 45%;
 	  display: block;
 	  line-height: 23.683px;
 	  line-height: 1.184rem;
+	  padding: 8px;
 
 	  &.left {
 		float: left;
-		text-align: left;
+		text-align: center;
 	  }
 
 	  &.right {
 		float: right;
-		text-align: right;
+		text-align: center;
 	  }
 	}
   }
@@ -182,13 +148,9 @@ article {
 
   // 'read on' button
   > footer > a {
-	@extend .button;
-	padding: 0.452rem 0;
-	padding: 9.046px 0;
 	display: block;
-	width: 35%;
-	margin: 0 auto;
-	margin-bottom: 1 em;
+	margin-bottom: 1.4rem;
+	font-weight: 300;
   }
 }
 

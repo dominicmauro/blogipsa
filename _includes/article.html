@@ -29,7 +29,7 @@
 {% if index %}
   <footer>
     <p class="meta">
-		Published in <span class="categories"> {% include post/categories.html %} </span> on <time>{{ post.date | date: "%b %-d, %Y" }}</time>
+		Filed on <time>{{ post.date | date: "%b %-d, %Y" }}</time> under <span class="categories">{% include post/categories.html %}</span>
     </p>
   </footer>
 

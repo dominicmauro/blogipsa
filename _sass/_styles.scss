@@ -5,8 +5,8 @@
 html {
   @extend .default-font;
   // border-top: 8px solid $accent-color;
-  font-size: 125%;
-  line-height: 1;
+	font-size: 20px;
+  line-height: 28px;
 }
 
 body {
@@ -20,7 +20,7 @@ body {
 }
 
 main {
-	width: 580px;
+	width: 550px;
 }
 
 
@@ -158,8 +158,8 @@ body {
   // ----- blog header -----
   
   [class^="icon-"], [class*=" icon-"] {
-    height: 30px;
-    width: 30px;
+    height: 1.6rem;
+    width: 1.6rem;
     margin-bottom: -4px;
     fill: black;
 
@@ -174,11 +174,15 @@ svg:hover {
 	  width: 100%;
 	  margin: 0 auto;
 	> h1 {
-	  @extend .font-size-large;
-	  @extend .header-font;
-	  font-weight: 400;
-	  margin-bottom: 7.640px;
-	  margin-bottom: 0.382rem;
+	
+	  font-family: ministry;
+  font-weight: 400;
+  text-align: center;
+  font-size: 1.8rem;
+  line-height: 2.8rem;
+  margin-top: 1.4rem;
+  margin-bottom: 0rem;
+	
 	  display: inline-block;
 	  text-transform: lowercase;
 	  a {
@@ -188,7 +192,13 @@ svg:hover {
 	
 	#nav {
 		clear: both;
-		font-weight: 200;
+		  font-family: ministry;
+  text-align: center;
+  font-weight: 200;
+  font-size: 1rem;
+  line-height: 1.4rem;
+  margin-top: 0rem;
+  margin-bottom: 2.8rem;
 	}
 
   }
@@ -199,6 +209,7 @@ svg:hover {
   	margin-bottom: 6px;
   	font-weight: 200;
   	@extend .font-size-large;
+  	text-align: left;
   }
 
   img {
