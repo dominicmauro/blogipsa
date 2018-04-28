@@ -37,11 +37,7 @@
 // ------------------------------
 
 @media screen and (max-width: 768px) {
-
-
-
   body {
-
 	  position: static;
 	  margin: 0 auto;
 	  margin-top: 20px;
@@ -58,24 +54,16 @@
     		width: 1.25rem;
     		margin-bottom: -2px;
     	}
-    }
-}
-
+   	 }
+	}
 
   #blog-archives {
 
 
 	article {
 	margin-left: 0;
-
-	footer {
-
-	}
-
 	}
   }
-
-  nav input.search,
   article > footer > a {
 	width: 50%;
   }
