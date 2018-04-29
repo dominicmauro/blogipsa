@@ -1,15 +1,19 @@
-html, .root {
+html,
+.root {
   font-size: 20px;
   line-height: 28px;
 }
-body, .article {
-  font-family: "freight-text-pro";
+
+body,
+.article {
+  font-family: 'freight-text-pro';
   font-size: 1rem;
   line-height: 1.4rem;
   margin: auto;
 }
 
-h1, .h1 {
+h1,
+.h1 {
   font-family: ministry;
   font-weight: 400;
   text-align: center;
@@ -36,7 +40,12 @@ h3, .h3 {
   margin-bottom: 0rem;
 }
 
-p, ul, ol, pre, table, blockquote {
+p,
+ul,
+ol,
+pre,
+table,
+blockquote {
   margin-top: 0rem;
   margin-bottom: 1.4rem;
 }
