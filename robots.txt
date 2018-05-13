@@ -1,4 +1,3 @@
 User-agent: *
 Disallow: /404/
-Disallow: /mint/
-Sitemap: http://barelylegally.com/sitemap.xml 
+Sitemap: http://blog.ipsaloquitur.org/sitemap.xml

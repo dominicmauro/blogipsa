@@ -13,24 +13,24 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Blog Ipsa Loquitur
-email: dom@ipsaloquitur.org
-description: "Confessions of a Moot Court Bailiff"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.ipsaloquitur.org" # the base hostname & protocol for your site
-permalink: /post/:title/
-future: false
+title:             Blog Ipsa Loquitur
+email:             dom@ipsaloquitur.org
+description:       "Confessions of a Moot Court Bailiff"
+baseurl:           "" # the subpath of your site, e.g. /blog
+url:               "http://blog.ipsaloquitur.org" # the base hostname & protocol for your site
+permalink:         /post/:title/
+future:            false
 
 # Build settings
-markdown: kramdown
+markdown:          kramdown
 excerpt_separator: "<!--more-->"
-excerpt_link: "(continued)"
-plugins: [jekyll-paginate, jekyll-archives, jekyll-sitemap, jekyll-feed]
-paginate: 6
-paginate_path: "/page/:num/"
+excerpt_link:      "(continued)"
+plugins:           [jekyll-paginate, jekyll-archives, jekyll-sitemap, jekyll-feed]
+paginate:          6
+paginate_path:     "/page/:num/"
 sass:
-   style: compressed
-destination:  _site
+   style:          compressed
+destination:       _site
 exclude:
 - Gemfile
 - Gemfile.lock
