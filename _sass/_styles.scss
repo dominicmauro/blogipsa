@@ -5,11 +5,12 @@
 html {
   @extend .default-font;
   // border-top: 8px solid $accent-color;
-	font-size: 20px;
+  font-size: 20px;
   line-height: 28px;
 }
 
 body {
+  text-size-adjust: none;
   -webkit-text-size-adjust: none; /* prevent mobile safari from resizing text */
   background-color: #fff;
   color: $text-color;
@@ -20,7 +21,7 @@ body {
 }
 
 main {
-	width: 550px;
+  width: 550px;
 }
 
 
@@ -37,14 +38,14 @@ a {
   // @include transition(color 0.5s ease 0s);
 
   &:hover {
-	color: $accent-hover-color;
-	text-decoration: underline;
+  color: $accent-hover-color;
+  text-decoration: underline;
   }
 }
 
 body header h1 a:hover {
-	color: $accent-hover-color;
-	text-decoration: none;
+  color: $accent-hover-color;
+  text-decoration: none;
 };
 
 section {
@@ -58,18 +59,13 @@ blockquote {
   font-style: italic;
 
   p {
-	 em {
-	 font-style: normal !important;
-	 }
-	 margin-top: 0px;
-	 margin-bottom: 0px;
+   em {
+   font-style: normal !important;
+   }
+   margin-top: 0px;
+   margin-bottom: 0px;
   }
 
-  p + p {
-
-  }
-  
-  
 }
 
 
@@ -119,9 +115,9 @@ pre {
   line-height: 18px;
 
   &.line-numbers {
-	@if $hide-line-numbers == true {
-	  display: none;
-	}
+  @if $hide-line-numbers == true {
+    display: none;
+  }
   }
 }
 
@@ -142,9 +138,9 @@ pre {
   padding: 8px 12px;
   overflow-x: auto;
   > code {
-	border: 0;
-	padding-right: 0;
-	padding-left: 0;
+  border: 0;
+  padding-right: 0;
+  padding-left: 0;
   }
 }
 
@@ -156,7 +152,7 @@ pre {
 body {
 
   // ----- blog header -----
-  
+
   [class^="icon-"], [class*=" icon-"] {
     height: 1.6rem;
     width: 1.6rem;
@@ -166,61 +162,61 @@ body {
 }
 
 svg:hover {
-	fill: $accent-color;
+  fill: $accent-color;
 }
 
   header {
-	  @extend .header-font;
-	  width: 100%;
-	  margin: 0 auto;
-	> h1 {
-	
-	  font-family: ministry;
+    @extend .header-font;
+    width: 100%;
+    margin: 0 auto;
+  > h1 {
+
+    font-family: ministry;
   font-weight: 400;
   text-align: center;
   font-size: 1.8rem;
   line-height: 2.8rem;
   margin-top: 1.4rem;
   margin-bottom: 0rem;
-	
-	  display: inline-block;
-	  text-transform: lowercase;
-	  a {
-	  	  color: $text-color;
-	  }
-	}
-	
-	#nav {
-		clear: both;
-		  font-family: ministry;
+
+    display: inline-block;
+    text-transform: lowercase;
+    a {
+        color: $text-color;
+    }
+  }
+
+  #nav {
+    clear: both;
+      font-family: ministry;
   text-align: center;
   font-weight: 200;
   font-size: 1rem;
   line-height: 1.4rem;
   margin-top: 0rem;
   margin-bottom: 2.8rem;
-	}
+  }
 
   }
 
   // ----- blog content -----
 
   div.title > h1 {
-  	margin-bottom: 6px;
-  	font-weight: 200;
-  	@extend .font-size-large;
-  	text-align: left;
+    margin-bottom: 6px;
+    font-weight: 200;
+    @extend .font-size-large;
+    text-align: left;
   }
 
   img {
-	  max-width: 100%;
-	  display: block;
-	  margin: 0 auto;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
   }
 
-	// ------ pagination buttons ------
-	
-	  .pagination {
+  // ------ pagination buttons ------
+
+    .pagination {
     @extend .sans-serif-font;
     padding: 23.683px 0;
     padding: 1.184rem 0;
@@ -250,18 +246,18 @@ svg:hover {
   // ----- blog footer -----
 
   > footer {
-	@extend .margin-bottom-larger;
-	clear: both;
+  @extend .margin-bottom-larger;
+  clear: both;
 
-	p {
-	  @extend .font-size-smallest;
-	  @extend .header-font;
-	  color: $secondary-text-color;
-	  line-height: 20px;
-	  line-height: 1rem;
-	  font-weight: 100;
-	  text-align: center;
-	}
+  p {
+    @extend .font-size-smallest;
+    @extend .header-font;
+    color: $secondary-text-color;
+    line-height: 20px;
+    line-height: 1rem;
+    font-weight: 100;
+    text-align: center;
+  }
   }
 }
 
@@ -275,69 +271,69 @@ svg:hover {
   margin-bottom: 5.016rem;
 
   h2 {
-	@extend .sans-serif-font-bold;
-	@extend .font-size-large;
-	color: $text-color;
-	font-weight: 400;
-	margin-top: 24px;
-	margin-bottom: 12px;
+  @extend .sans-serif-font-bold;
+  @extend .font-size-large;
+  color: $text-color;
+  font-weight: 400;
+  margin-top: 24px;
+  margin-bottom: 12px;
 
   }
 
   article {
-	margin-bottom: 12px;
-	overflow: auto;
+  margin-bottom: 12px;
+  overflow: auto;
 
-	h1 {
-		@extend .font-size-medium;
-	  padding-bottom: 4.722px;
-	  padding-bottom: 0.236rem;
-	  margin: 0;
-	  font-weight: 300;
-	  line-height: 14px;
-	  a {
-		  color: $text-color;
-		  &:hover {
-			  text-decoration: none;
-			  color: $accent-color;
-		  }
-	  }
-	  float: left;
-	}
+  h1 {
+    @extend .font-size-medium;
+    padding-bottom: 4.722px;
+    padding-bottom: 0.236rem;
+    margin: 0;
+    font-weight: 300;
+    line-height: 14px;
+    a {
+      color: $text-color;
+      &:hover {
+        text-decoration: none;
+        color: $accent-color;
+      }
+    }
+    float: left;
+  }
 
 
 
   }
 
   time, footer {
-	@extend .font-size-medium;
-	@extend .sans-serif-font;
-	color: $secondary-text-color;
-	display: inline;
-	float: right;
-	font-weight: 200;
-	padding: 0;
-	vertical-align: top;
-	margin: 0;
+  @extend .font-size-medium;
+  @extend .sans-serif-font;
+  color: $secondary-text-color;
+  display: inline;
+  float: right;
+  font-weight: 200;
+  padding: 0;
+  vertical-align: top;
+  margin: 0;
   }
   span.categories {
-
+    text-transform: capitalize;
   }
 }
 
 form {
-	text-align: left;
-	height: 50px;
-	font-size: 24px;
+  text-align: left;
+  height: 50px;
+  font-size: 24px;
 
-	input.search {
-		font-size: 18px;
-		@extend .sans-serif-font;
-	}
+  input.search {
+    font-size: 18px;
+    @extend .sans-serif-font;
+  }
 }
 
 #greatesthits {
-	margin-top: 15px;
+  margin-top: 15px;
 }
 
 // ------------------------------
@@ -346,22 +342,21 @@ form {
 
 #search_results {
   article {
-	margin-left: 0;
-	margin-top: 20px;
-	margin-top: 1rem;
+  margin-left: 0;
+  margin-top: 20px;
+  margin-top: 1rem;
 
-	> a {
-	  display: none;
-	}
+  > a {
+    display: none;
+  }
 
-	p {
-	  margin-top: 14.637px;
-	  margin-top: 0.732rem;
-	}
+  p {
+    margin-top: 14.637px;
+    margin-top: .732rem;
+  }
 
-	time:after {
-	  content: none;
-	}
+  time:after {
+    content: none;
+  }
   }
 }
-
