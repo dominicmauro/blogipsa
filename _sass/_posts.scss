@@ -1,0 +1,157 @@
+
+// ------------------------------
+// blog post
+// ------------------------------
+
+article {
+  @extend .margin-bottom-largest;
+
+  // ----- post's header -----
+  
+
+  .title {
+
+
+	h1 {
+	@extend .font-size-largest;
+	    font-family: ministry;
+  font-weight: 200;
+  font-size: 1.35rem;
+  line-height: 1.4rem;
+  margin-top: 1.4rem;
+  margin-bottom: 0rem;
+  text-align: left;
+	  a {
+		color: $text-color;
+	  }
+	  a:hover {
+		text-decoration: none;
+		color: #e61717;
+	  }
+	}
+
+
+  }
+
+  p.meta {
+	@extend .header-font;
+	color: $secondary-text-color;
+	span.category {
+		text-transform: capitalize;
+	}
+  }
+
+
+  // ----- post's content -----
+
+  h1 {
+	@extend .font-size-largest;
+	margin-top: 62.000px;
+	margin-top: 3.1rem;
+	margin-bottom: 20px;
+	margin-bottom: 1rem;
+  }
+
+  h2 {
+	font-size: 30.56px;
+	font-size: 1.528rem; /* 1.618 - 0.09 */
+	text-transform: uppercase;
+	margin-top: 52.358px;
+	margin-top: 2.618rem;
+	margin-bottom: 9.046px;
+	margin-bottom: 0.452rem;
+  }
+
+  h3 {
+	  font-size: 30.56px;
+	  font-size: 1.528rem; /* 1.618 - 0.09 */
+	  text-transform: lowercase;
+	  margin-top: 24px;
+	  margin-bottom: 9.44px;
+	  font-weight: 300;
+  }
+
+
+  ul, ol {
+	@extend .block-padding;
+	@extend .default-line-height;
+	@extend .margin-bottom-large;
+	text-align: left;
+	margin-left: 20px;
+	margin-left: 1rem;
+
+	li:last-child p, ol:last-child p {
+	  margin-bottom: 0;
+	}
+
+	a {
+	  text-decoration: underline;
+	}
+  }
+
+  ul {
+	list-style-type: disc;
+  }
+
+  ol {
+	list-style-type: decimal;
+  }
+
+  p > code, li code {
+	@extend .code-keywords;
+	@extend .code-font;
+	font-size: 17.56px;
+	font-size: 0.878rem; /* 0.732 + 0.146 */
+  }
+
+  // ----- post's footer -----
+
+  footer {
+	@extend .sans-serif-font;
+	padding-top: 12.361px;
+	padding-top: 0.618rem;
+
+
+	> p.meta {
+	  overflow: auto;
+	  font-weight: 300;
+	  text-align: left;
+	  	  font-size: 0.8rem;
+  line-height: 1.2rem;
+	font-weight: 200;
+	font-style: italic;
+	
+	}
+
+	a.basic-alignment {
+		@extend .button;
+	  text-decoration: none;
+	  font-style: normal;
+	  width: 45%;
+	  display: block;
+	  line-height: 23.683px;
+	  line-height: 1.184rem;
+	  padding: 8px;
+
+	  &.left {
+		float: left;
+		text-align: center;
+	  }
+
+	  &.right {
+		float: right;
+		text-align: center;
+	  }
+	}
+  }
+
+
+  // 'read on' button
+  > footer > a {
+	display: block;
+	margin-bottom: 1.4rem;
+	font-weight: 300;
+  }
+}
+
+

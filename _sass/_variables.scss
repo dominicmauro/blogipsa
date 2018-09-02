@@ -1,0 +1,115 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+/*
+-------------------------------------------------------------------------
+Modified from the October 2013 file from Vladi Gleba (vladigleba.com) 
+
+This layout is based on the following modular scale:
+
+20px @ 1:1.618
+62px @ 1:1.618
+
+See http://alistapart.com/article/more-meaningful-typography
+to learn about modular scales.
+
+-------------------------------------------------------------------------
+*/
+
+// colors and corners
+
+$accent-color: #e61717;
+$accent-hover-color: #e61717;
+
+$text-color: #333;
+$secondary-text-color: #aaa;
+
+$line-color: #e6e6e6;
+$hide-line-numbers: true;
+
+$border-radius-size: 4px;
+$border-style: 3px solid $accent-color;
+
+// ------------------------------
+// shared styles
+// ------------------------------
+
+.default-line-height {
+  line-height: 32.360px;
+  line-height: 1.618rem;
+}
+
+.font-size-smallest {
+  font-size: 14.637px;
+  font-size: 0.732rem;
+}
+
+.font-size-small {
+  font-size: 16.773px;
+  font-size: 0.839rem; /* 0.732 + 0.107 */
+}
+
+.font-size-medium {
+  font-size: 19.359px;
+  font-size: 0.968rem; /* 0.732 + 0.236 */
+}
+
+.font-size-large {
+  font-size: 32.36px;
+  font-size: 1.618rem;
+}
+
+.font-size-largest {
+  font-size: 38.319px;
+  font-size: 1.916rem;
+}
+
+.font-size-huge {
+  font-size: 67.319px;
+  font-size: 3.816rem;
+  line-height: 76px;
+}
+
+.margin-bottom-large {
+  margin-bottom: 32.360px;
+  margin-bottom: 1.618rem;
+}
+
+.margin-bottom-larger {
+  margin-bottom: 52.358px;
+  margin-bottom: 2.618rem;
+}
+
+.margin-bottom-largest {
+  margin-bottom: 62.000px;
+  margin-bottom: 4.236rem;
+}
+
+.block-padding {
+  padding: 1px 32.360px;
+  padding: 1px 1.618rem;
+  margin-left: 1em;
+}
+
+.border-style {
+  border-top: 2px solid $secondary-text-color;
+}
+
+.code-keywords {
+  background-color: #e8e8e8;
+  border-radius: $border-radius-size;
+  padding: 0 5.591px;
+  padding: 0 0.28rem;
+}
+
+.button {
+  // @include transition(all 0.3s ease 0s);
+  border-radius: $border-radius-size;
+  background-color: $accent-color;
+  color: #fff;
+
+  &:hover {
+	background-color: $accent-hover-color;
+	color: #fff;
+  }
+}
