@@ -1,8 +1,0 @@
-{% capture category %}{% if post %}{{ post.categories | category_links }}{% else %}{{ page.categories | category_links }}{% endif %}{% endcapture %}
-
- 
-  {% if post %}
-    {{ post.categories | category_links }}
-  {% else %}
-    {{ page.categories | category_links }}
-  {% endif %}
