@@ -29,9 +29,8 @@
 {% if index %}
   <footer>
     <p class="meta">
-		Filed on <time>{{ post.date | date: "%b %-d, %Y" }}</time> under <span class="categories">{{ post.categories | titlecase }}</span>
+		Published on <time>{{ post.date | date: "%b %-d, %Y" }}</time> under <span class="categories">{{ post.categories | titlecase }}</span>
     </p>
   </footer>
-
 
 {% endif %}
