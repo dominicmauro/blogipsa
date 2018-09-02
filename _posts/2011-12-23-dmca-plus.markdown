@@ -1,0 +1,45 @@
+---
+author: admin
+comments: true
+date: 2011-12-23 19:43:58+00:00
+layout: post
+slug: dmca-plus
+title: DMCA Plus
+wordpress_id: 1136
+categories:
+- Legal Theory
+---
+
+The Stop Online Piracy Act (SOPA) is a terrible thing. It's sort of like a turbo-charged, Mad Max version of the decade-old Digital Millenium Copyright Act, which I've [written about](https://duckduckgo.com/?q=site%3Abarelylegally.com%20sopa) before. Both SOPA and the DMCA address copyrighted materials posted to web sites, but they go about them somewhat differently.
+
+Consider some scenarios: Viacom sees a clip of South Park on a video sharing site: [completely hypothetically](http://news.cnet.com/2100-1030_3-6166668.html), let's say YouTube. Pre-DMCA and pre-SOPA, YouTube might have been liable for contributory copyright infringement. They'd end up having to fight a "substantial noninfringing uses" battle like Sony v. Universal, the Betamax case. I'm not going to cover that again, but just know that that's expensive and worrisome, and they could lose and go bankrupt. That'd be bad.
+
+### Enter The DMCA
+
+The DMCA gives Viacom a private remedy: they don't need to call the attorney general. It's like trespassing. Sure, you can call the police and try to get someone arrested, but you can also just call your lawyer and start a private lawsuit. Under the DMCA YouTube is actually completely immune to copyright infringement suits for the infringing videos its users upload. Viacom has to go after YouTube's users. But like I said, there's a private remedy.
+
+Specifically, there's a DMCA takedown notice. Viacom sends a letter to YouTube, swears that the clip at whatever URL is infringing on their copyright, and orders YouTube to remove it. Viacom's letter must list **specific** files at **specific** addresses, or YouTube can ignore it. For valid takedown notices, YouTube either removes the clip immediately, or they lose that immunity I mentioned. But if YouTube complies with the notice, they're completely immune to the copyright violations of their users.
+
+### Enter SOPA
+
+SOPA takes that general regime, which is unfair to both sides (a conundrum that the civilized among us know as a "compromise"), and makes it much worse for one side. Given that Big Copyright has spent [$57 million lobbying for it to pass](http://maplight.org/us-congress/bill/112-hr-3261/1019110/total-contributions.table), you get no points for guessing that SOPA is worse for "everyone who is not an international media conglomerate." 
+
+It takes that DMCA takedown notice thing, and makes it a fire-breathing monster. Now, in our scenario above, Viacom would simply send a letter to a court, swearing that YouTube contains an infringing video. The court, without contacting YouTube, would find the video infringing or not; if it's infringing, the judge would then order YouTube removed from the DNS record. DNS is the system that lets human beings type "Google.com" into a web browser, instead of [72.14.204.91](http://google.com). 
+
+When a judge decides that there is an infringing video on YouTube, she can deactivate YouTube.com. The site just disappears off the internet. Poof. Not the video; the whole site. The [Stanford Law Review](http://www.stanfordlawreview.org/online/dont-break-internet) has a good overview of the law as a whole.
+
+### SOPA sucks
+
+So where the DMCA lets a copyright owner nuke any file on the internet, SOPA lets the copyright owner nuke any site on the internet. To say this moves the goalposts a bit is an understatement.
+
+So the collective internet has been rather up in arms about the whole affair. I can't say I'm surprised. Google, Apple, and Yahoo have gotten in on the act, too.
+
+But not GoDaddy. There's a [giant thread](http://www.reddit.com/r/politics/comments/nmnie/godaddy_supports_sopa_im_transferring_51_domains/) on Reddit calling out GoDaddy for supporting SOPA. Why does GoDaddy support SOPA? Specifically, why does GoDaddy support SOPA when its customers hate it so much? They say:
+
+> "Go Daddy has a long history of supporting federal legislation directed toward combating illegal conduct on the Internet. For example, our company strongly supported the Ryan Haight Online Pharmacy Consumer Protection Act of 2008, the Protect Our Children Act of 2008, and the Preventing Real Online Threats to Economic Creativity and Theft of Intellectual Property Act of 2011 (PROTECT IP). 
+>
+> Go Daddy has always supported both government and private industry efforts to identify and disable all types of illegal activity on the Internet. It is for these reasons that I’m still struggling with why some Internet companies oppose PROTECT IP and SOPA. There is no question that we need these added tools to counteract illegal foreign sites that are falling outside the jurisdiction of U.S. law enforcement. And there is clearly more that we could all be doing to adequately address the problems that exist."
+
+Yeah, the Hooters of registrars is really concerned about their image as an upstanding internet company. 
+
+Whatever, guys. My domains are registered through secureserver.net, a GoDaddy affiliate; I'm moving them all on December 29th. 

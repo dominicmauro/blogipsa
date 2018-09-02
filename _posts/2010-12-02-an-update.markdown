@@ -1,0 +1,25 @@
+---
+author: admin
+comments: true
+date: 2010-12-02 02:16:36+00:00
+layout: post
+slug: an-update
+title: An Update
+wordpress_id: 496
+categories:
+- The News
+---
+
+Last February, I wrote about one Mr. and Mrs. Boring, who were suing Google for including a photo of their house on Google Maps. From [Ye Archives](http://blog.ipsaloquitur.org/post/a-magical-wonderland/):
+
+> Google did this as part of its Google Street View service, which takes pictures of streets and puts them on the internet in a huge searchable database. For instance, here’s a [picture of my law school](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=57+Worth+St,+New+York,+NY+10013&sll=40.730385,-73.990973&sspn=0.001801,0.003589&ie=UTF8&ll=40.7172,-74.00631&spn=0.001899,0.003589&t=h&z=18&layer=c&cbll=40.717213,-74.006565&panoid=_rKIJTMXovYFFOD-Cu5qDg&cbp=12,77.1416814687947,,0,-16.121076233183846).
+>
+> The Borings do have a valid point in asking that the pictures of their property be removed from Google Street View. Their house sits on its own road, which is also apparently their driveway, and is marked “private.” Yet the Google Street View images let you see their driveway/private road, and now people can see the pool and houses that were already visible from the satellite maps.
+>
+> The $25,000 question remains, though: who cares? I’d never heard of the Borings, and neither had you, Dear Reader. I suppose it’s possible that someday they could have upset someone who could use Google Street View to examine the Boring property. But that same person could just drive over to the Boring property and snoop about anyway: there’s no fence, no gate, and nothing but a sign marked “private.” Google hasn’t invaded the Borings’ privacy, just shown how superficial any expectation was.
+>
+> The judge in this case has [thrown out the lawsuit](http://news.bbc.co.uk/2/hi/technology/7898407.stm), although I think the Borings had a valid claim for trespassing if Google’s employees had set foot on the Borings’ property. It’s not necessary to cause any damage to someone’s property to be liable for trespassing...
+>
+> The lawsuit was by and large without merit for the same reason that other prior lawsuits relating to Google Street View were unsuccessful: _you haven’t lost any privacy simply because your house is visible from the sidewalk_.  No one has invaded your home because you left your curtains open and [people can see your cat](http://www.nytimes.com/2007/06/01/technology/01private.html?ex=1338436800&en=dcf03c92d90d9c0c&ei=5124&partner=permalink&exprod=permalink)...
+
+Well, [the Borings won](http://techcrunch.com/2010/12/01/boring-google-streetview/). $1. (In a recession, no less. That's not even enough to buy a £1 cup of coffee.)

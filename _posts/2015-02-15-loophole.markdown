@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Horrible Loophole"
+date: 2015-02-15 12:35:12 -0500
+categories: 
+- Nuke Us From Orbit
+---
+
+The Guardian has a story about a creepy, creepy old man who took photos of a child's underwear by kneeling down and sticking a camera under her skirt. The guy apparently [committed no crime](http://www.theguardian.com/us-news/2015/feb/06/oregon-judge-rules-man-upskirt-photos-girl-not-crime) in Oregon:
+
+> An Oregon judge has ruled that a 61-year-old man did nothing illegal when he crouched in the aisle of a Target store and snapped photos up a 13-year-old’s skirt. It was lewd and appalling, but not outlawed, Washington county judge Eric Butterfield said.
+>
+> “From a legal point of view, which unfortunately today is my job to enforce, he didn’t do anything wrong,” the judge said on Thursday. Patrick Buono of Portland didn’t dispute using his cellphone to take upskirt photos on 3 January at the store in suburban Beaverton, the Oregonian reported.
+>
+> But his defense lawyer, Mark Lawrence, argued Buono didn’t violate the laws against invasion of privacy and attempted encouraging child sexual abuse, a child abuse images count.
+
+Well, this is just crazy. I can't believe that photographing a kid's underwear under her skirt isn't actually a crime in Oregon. The article mentions that Buono was charged with two crimes. One of them has to fit, right?
+
+### The Child Pornography Charge
+
+In Oregon, they call child pornography "the crime of encouraging child sexual abuse," and it has three degrees. The [third degree](http://www.oregonlaws.org/ors/163.687) of the crime has a number of provisions, but one of them says that whoever:
+
+> Knowingly possesses or controls, or knowingly accesses with the intent to view, a visual recording of sexually explicit conduct involving a child for the purpose of arousing or satisfying the sexual desires of the person or another person;
+
+Is guilty of encouraging child sexual abuse in the third degree. There are a lot of elements in that crime, but they're almost all straightforward. The guy took a photo on purpose, so he "knowingly possessed" it; it's a photo, so it's a "visual recording"; 13 years old is definitely a "child"; and we can assume that "sexual desires" were involved in the particular photos.
+
+The only hitch there is "sexually explicit conduct" – it's not immediately apparent that the child was doing anything like that. However, the [definition](http://www.oregonlaws.org/ors/163.665) of sexually explicit conduct in Oregon is:
+
+1. Sexual intercourse or deviant sexual intercourse;
+2. Genital-genital, oral-genital, anal-genital or oral-anal contact, whether between persons of the same or opposite sex or between humans and animals;
+3. Penetration of the vagina or rectum by any object other than as part of a medical diagnosis or treatment or as part of a personal hygiene practice;
+4. Masturbation;
+5. Sadistic or masochistic abuse; or
+6. Lewd exhibition of sexual or other intimate parts.
+
+I'm not going to bother to look up the case law to figure out how the courts in Oregon have defined each of those terms, because this case is depressing enough already without getting a complete picture of the landscape of exploited children in this particular jurisdiction.
+
+Going with the plain meaning of those terms, none of the first five really apply. That last one, though; it seems like the part of a child covered by a skirt and by underwear would qualify as an "intimate part." However, the law is specific not just about the area of a body being photographed, but also the "lewd exhibition" of that area. And, uh, the child wasn't doing anything like that.
+
+Why these crazy stipulations? Well, we've all got those embarrassing baby pictures that our parents trot out at the holidays. There's a photo of my brother, then 2 years old, taking a bath in the kitchen sink, and a photo of me at bath time with a beard made from bubble bath bubbles. We're both naked, but neither of those photos are child pornography – nor should they be. Everyone's family has pictures like this. So Oregon's law tries to draw those boundaries to keep regular old parents from being … sex offenders.
+
+However, this boundary-drawing has accidentally left out Creeper McPervsalot in this case. He's apparently committed no crime.
+
+### Invasion of Privacy
+
+Well, okay. So this guy skates on the child pornography charge. It seems more than a little messed up. The other charge is [Invasion of Privacy](http://www.oregonlaws.org/ors/163.700), which seems like a bit of an understatement. But sure. Let's give this a shot.
+
+> A person commits the crime of invasion of personal privacy if: the person knowingly makes or records a photograph, motion picture, videotape or other visual recording of another person in a state of nudity without the consent of the person being recorded;
+
+Well, the kid wasn't naked. So there goes that charge. Also, the victim would have had to be in a location and under circumstances where she had a reasonable expectation of personal privacy. In Oregon, they have a list:
+
+> Places and circumstances where the person has a reasonable expectation of personal privacy includes, but is not limited to, a bathroom, dressing room, locker room that includes an enclosed area for dressing or showering, tanning booth and any area where a person undresses in an enclosed space that is not open to public view.
+
+A random aisle in Target probably doesn't count. Geez, Oregon, what's wrong with your laws? Upskirt photos (of kids or otherwise) ought to be a crime. It's not hard. [Massachusetts has one](http://www.npr.org/blogs/thetwo-way/2014/03/06/286690512/read-it-and-rate-it-court-rules-upskirt-photos-are-legal). 
+
+Of course, just because you have a law doesn't mean you'll keep that law. In Texas, pervy photos of other peoples' underwear is *protected speech*:
+
+> The state's highest criminal court on Wednesday tossed out part of a Texas law banning "improper photography or visual recording" - surreptitious images acquired in public for sexual gratification, often called "up skirting" or "down blousing" - as a violation of federal free-speech rights and an improper restriction on a person's right to individual thoughts.
+
+Oh, **come on**.

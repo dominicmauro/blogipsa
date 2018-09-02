@@ -1,0 +1,15 @@
+---
+layout: post
+title: It’s a Net Win
+date: 2015-03-18 11:10:44 -0500
+categories: 
+- The Digital Age
+---
+
+Today’s [First Post](http://techpresident.com) from Personal Democracy Media has a remarkably concise rebuttal to critics of net neutrality:
+
+> Senator Marco Rubio (R-FL) writes in Politico that we shouldn’t allow government to “crash” the Internet party. It’s worth reading his op-ed if you want the full gist of the current disinformation campaign against net neutrality. Rubio claims the FCC is going to “play favorites” with Internet service providers, which is like saying SEC plays favorites with stock brokers by requiring them to play by the same rules. 
+>
+> He also claims the Internet “is a place…[not] unlike a city or town”—which it is not, it is a set of protocols. And finally, he argues that “it belongs in the hands of our people,” which is a welcome sentiment that completely elides the fact that most of it runs thru pipes owned by avaricious monopolists.
+
+Read Senator Rubio’s actual [misguided take](http://www.politico.com/magazine/story/2015/03/government-is-crashing-the-internet-party-116168_full.html) on net neutrality here. As PDM notes, this is what opposing arguments are likely to take in the runup to the FCC’s rulemaking.

@@ -1,0 +1,21 @@
+---
+layout: post
+title: Bird Law 101
+date: 2015-09-22 20:28:42 -0400
+categories: 
+- Jest, Mostly
+---
+
+Here’s one that didn’t make it through my queue this summer. Gordy Megroz writing for Bloomberg Business about the cutting edge of… [sports drinks](http://www.bloomberg.com/news/articles/2015-07-22/skratch-labs-sports-drink-benefits-from-tour-de-france-origin):
+
+> [Physiologist Allen] Lim worked much of the last decade for the Slipstream cycling team (now the Cannondale-Garmin Pro team) as its riders competed in the Tour de France. His job was to ensure the 25 cyclists were getting proper training, food, and liquids. “But their guts hurt,” he says. “They were throwing up and getting cramps.” He traced the issue back to the squad’s go-to drink, a popular brand he won’t disclose. He tested every other option on the market, all of which caused similar issues. “We tried cutting them with water,” he says. “But then they weren’t getting enough salt. So we added Alka-Seltzer tablets, which made it taste gross.”
+>
+> Then he started experimenting with homemade concoctions. He tested those on the team’s top athletes, including Bradley Wiggins, who would go on to win the 2012 Tour. After a year of trial and error, the formula started working well, and cyclists from other teams began to ask for the secret swill, too. “I completely avoided our team sponsor’s drink and would sneak Allen’s into my water bottles,” says Ted King, a professional cyclist.
+
+Yeah, sure, it’s a story about professional athletes. Didn’t we just have one of those, Dominic? Big deal; these guys are drinking some sugar water so they can Sport harder. It’s mildly interesting, but there’s nothing here to-
+
+Shhhh. Shhh shhhh. Here’s the fun bit. How did this fellow decide whether to sell his business to a competitor? How far did Mr. Lim follow his dream, and what did he get for it? What Profound Universal Business Wisdom will *Bloomberg Goddamn Business* pour into your eye holes from the screen you hold in your hand?
+
+> At first, Lim made the product only for athletes who asked. Then, in 2010, sports drink company FRS—which sponsored Lance Armstrong at the time—offered to buy Lim out. As he mulled over the contract, a bird flew by and pooped on it. “I took that as an omen,” he says.
+
+It’s like my law professor used to say: *contractus cum avis excretim sit malus contractus*. That’s just bird law 101.

@@ -1,0 +1,19 @@
+---
+author: admin
+comments: true
+date: 2010-11-16 15:03:28+00:00
+layout: post
+slug: too-soon
+title: Too Soon?
+wordpress_id: 440
+categories:
+- The News
+---
+
+An unfortunate analogy from a Philadelphia Eagles player, on the intensity with which his team played football on [Monday night](http://sports.espn.go.com/nfl/recap?gameId=301115028):
+
+> "The pregame altercation got us going. It had us ready. We came back into the locker room pumped," Jackson said. "**We were like pit bulls, ready to get out of the cage**."
+
+It appears there's no such thing as vickpalm.jpg — have a picardpalm.jpg instead. (With bonus rikerpalm.jpg action!)
+
+![](/images/double-facepalm.jpg)

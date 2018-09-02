@@ -1,0 +1,25 @@
+---
+author: admin
+date: 2011-03-17 12:05:52+00:00
+layout: post
+slug: oh-come-on
+title: Oh Come On
+categories:
+- Legal Theory
+---
+
+From St. Louis Today, [Estate of man sues Starbucks over death](http://www.stltoday.com/news/local/crime-and-courts/article_a87fee2a-c739-5914-96d0-30e1deeaa6b9.html):
+
+> The Starbucks coffee shop here should have known it was inviting trouble by placing a tip jar on an open counter, according to a wrongful-death lawsuit filed by the estate of a customer who died defending it. The suit, filed Monday in St. Louis County Circuit Court, seeks unspecified damages from the Starbucks Corp. on behalf of the estate of Roger Kreutz and his father, Edward Kreutz Sr.
+>
+> Roger Kreutz, 54, of Crestwood, was a customer at the Starbucks, 9590 Watson Road, on March 3, 2008, when he saw a teenager snatch the jar. Kreutz gave chase on foot. Rushing to escape, Aaron Poisson, then 19, struggled with his pursuer over a car door and backed his Ford out of a parking space, knocking Kreutz to the pavement. He died two days later of head injuries.
+
+That Mr. Kreutz is dead is tragic. His actions were noble and selfless, and he certainly didn't deserve the fate that befell him. That being said, this is a horrible lawsuit. While "inviting trouble" may well be the legal standard for [creation of risk in a negligence](http://docs.google.com/viewer?a=v&q=cache:oawKHWEqcaAJ:www.law.nyu.edu/idcplg?IdcService=GET_FILE&dDocName=ECM_DLV_011775&RevisionSelectionMethod=LatestReleased+torts+%22creation+of+risk%22&hl=en&gl=us&pid=bl&srcid=ADGEESgCHbLwziAwO7mUy5RbpR8QtifALQFUatyOvOD-j6HGr_ioXCO8yb_ShxvwXImmtGj-q_w7mJX6TdAwxqwMMgt3JAowMBtQ196jUq3OVR1_zhZR5Urq0BErViYW-dcf9G09sHy2&sig=AHIEtbRsKB6DIMPijfgTSMc5Fp3CNo1RpQ) (Section III) action in St. Louis, I don't see how "tip jar creates risk of deadly injury to bystanders" passes the straight-face test.<!-- more -->
+
+One of the best ways of heading off liability for negligence is to prove what's called an _intervening cause_ of injury: some [unforeseeable event severed the chain of causality](http://law.jrank.org/pages/8784/Negligence-Intervening-Cause.html) between "stupid thing I did" and "wacky injury you suffered." For instance, if Starbucks put the tip jar on a rickety shelf and it subsequently fell and injured a customer, an earthquake would probably sever the chain of causality, but another customer bumping into the shelf wouldn't. An earthquake is much less foreseeable than a customer bumping into a shelf. People are clumsy. It happens.
+
+In this case, something unforeseeable would need to happen after Starbucks puts out the tip jar, but before Kreutz hit his head and died. The unforeseeable thing was Kreutz grappling with the thief, chasing him out of the building, chasing him into his car, grappling with the thief again, and then being struck by the thief's car.
+
+Worse still for Kreutz, (technically, his estate) _he was arguably the intervening cause of his own death_. Sure, the kid who hit him with his car is another cause of his death, but Kreutz did a lot of chasing and grappling of his own volition. I'd say there's a good chance that a judge or jury finds Starbucks unable to reasonably foresee a guy chasing a thief into a parking lot and being killed for it. Even if Starbucks could reasonably foresee a customer bravely chasing down a ne'er-do-well (which is what the Kreutz Estate lawyers are going to have to argue), it's questionable whether being hit by a car is a reasonably foreseeable result.
+
+As I said before, this lawsuit seems like a cheap cash-grab. I wouldn't be terribly surprised if the Kreutz Estate lawyers are banking on a gift settlement out of the hope that someone at Starbucks feels a sense of moral obligation to Mr. Kreutz's family. I just don't see how Starbucks can lose in court.
