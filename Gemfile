@@ -17,11 +17,11 @@ ruby RUBY_VERSION
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 gem "redacre"
-gem 'jekyll-paginate', '~> 1.1'
-gem 'jekyll-archives', '~> 2.1'
-gem 'titlecase', '~> 0.1.1'
-gem 'jekyll-sitemap', '~> 1.2'
-gem 'jekyll-feed', '~> 0.10.0'
+gem 'jekyll-paginate'
+gem 'titlecase'
+gem 'jekyll-sitemap'
+gem 'jekyll-archives'
+gem 'jekyll-feed'
 
 # If you have any plugins, put them here!
 # group :jekyll_plugins do

@@ -18,7 +18,7 @@ email:             dom@ipsaloquitur.org
 description:       "Confessions of a Moot Court Bailiff"
 baseurl:           "" # the subpath of your site, e.g. /blog
 url:               "http://dominicmauro.github.io/blogipsa" # the base hostname & protocol for your site
-remote_theme:      dominicmauro/redacre
+theme:             redacre
 permalink:         /post/:title/
 future:            false
 
