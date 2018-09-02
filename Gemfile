@@ -9,8 +9,7 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll"
-gem "sass"
+# gem "jekyll"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
@@ -21,9 +20,3 @@ gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 # group :jekyll_plugins do
 # end
-gem 'jekyll-paginate'
-gem 'jekyll-archives'
-gem 'jekyll-compass'
-gem 'jekyll-sitemap'
-gem 'jekyll-watch'
-gem 'jekyll-feed'
