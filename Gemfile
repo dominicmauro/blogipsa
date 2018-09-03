@@ -10,20 +10,21 @@ ruby RUBY_VERSION
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll"
-gem "sass"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", group: :jekyll_plugins
+# gem "github-pages", group: :jekyll_plugins
+gem "redacre"
+gem 'jekyll-paginate'
+gem 'titlecase'
+gem 'jekyll-sitemap'
+gem 'jekyll-archives'
+gem 'jekyll-feed'
 
 # If you have any plugins, put them here!
 # group :jekyll_plugins do
 # end
-gem 'jekyll-paginate'
-gem 'jekyll-archives'
-gem 'jekyll-compass'
-gem 'jekyll-sitemap'
-gem 'jekyll-watch'
-gem 'jekyll-feed'
+
+gem "jekyll-github-metadata", "~> 2.9"

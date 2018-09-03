@@ -1,0 +1,21 @@
+---
+layout: post
+title: "264 Hours"
+date: 2015-02-02 21:36:52 -0500
+categories: 
+- The Digital Age
+---
+
+There might just be [too much TV](http://www.thedailybeast.com/articles/2015/01/21/there-s-too-much-damn-tv):
+
+> There are 352 scripted series on primetime and late-night TV. That means there are 352 original comedies and dramas with actual narratives and writing. 352 series that are fully staffed with writers and actors and directors. 352 series that are competing for Emmys and Golden Globes and SAGs and—even more importantly—your attention.
+>
+> Those 352 series are broken down into 199 series on cable, 129 on broadcast, and 24 on streaming services like Netflix, Amazon, and Hulu. Those series aren’t further classified into half-hour comedies and hour-long dramas, but let’s, just for the heck of it, assume that they’re half-and-half each. That totals 15,840 minutes of television that were aired in regular episodic installments in 2014. That’s 264 hours. That’s about a week and a half.
+
+Kevin Fallon, the author of the article, doesn't necessarily spell it out: that's a week and a half of "primetime" TV per week. As in, if you recorded all the TV in a given week's 8 p.m. to 11 p.m. time slot, you watch it 24/7 and still miss out on over *one-third* of the scripted series airing in primetime that week.
+
+If you also count the 1,363 "non-scripted" (i.e. [reality TV](http://www.buzzfeed.com/jennaguillaume/worst-reality-shows-you-cant-help-but-watch)) series that air in primetime, there are roughly *Seven and a half weeks* of TV airing between 8 p.m. and 11 p.m. Every week. In three hours.
+
+Now, sure, there are exactly zero TV series that air 52 weeks a year. I don't know what the average production run for any of these shows is, but we can argue the reverse. If each of those series averages just 7 episodes per year, we as a culture are officially producing more than a week's worth of primetime TV every week for the entire year.
+
+That's nothing, though. On YouTube, over [100 hours of video](http://www.youtube.com/yt/press/statistics.html) are uploaded every *minute*. Every hour, there are 6,000 hours of video uploaded. Every week, over a million hours of video. Mass media is unfathomably massive in the digital age.

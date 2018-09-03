@@ -1,0 +1,17 @@
+---
+author: admin
+comments: true
+date: 2010-12-10 13:45:11+00:00
+layout: post
+slug: well-put
+title: Well Put
+wordpress_id: 524
+categories:
+- The News
+---
+
+Famed hacker magazine 2600 published a [press release condemning the DDoS attacks](http://www.2600.com/news/view/article/12037) on Visa.com, Mastercard.com, and other sites that are perceived to have acted unfairly to Wikileaks:
+
+> The assault on Wikileaks must not be overshadowed by the recent denial of service attacks and these certainly must not be allowed to be associated with the hacker community. **This will play right into the hands of those who wish to paint us all as threats and clamp down on freedom of speech and impose all kinds of new restrictions on the Internet**, not to mention the fact that the exact same types of attacks can be used on "us" as well as "them." (Interestingly, it was only a week ago that "hackers" were blamed for denial of service attacks on Wikileaks itself. That tactic was ineffectual then as well.)
+
+Maybe I see everything that happens on the internet through net neutrality-colored glasses, but I don't think that's a bad thing.

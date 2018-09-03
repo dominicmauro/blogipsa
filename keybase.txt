@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/mynameisdom
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.ipsaloquitur.org
+  * I am mynameisdom (https://keybase.io/mynameisdom) on keybase.
+  * I have a public key with fingerprint 0343 9AD5 E018 8D15 5F79  CE56 5A16 C612 9C0B 4217
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101cd196a3d63f6a90044229a84f6bd53a36069005957243394f58b0ced24964b4d0a",
+      "fingerprint": "03439ad5e0188d155f79ce565a16c6129c0b4217",
+      "host": "keybase.io",
+      "key_id": "5a16c6129c0b4217",
+      "kid": "0101cd196a3d63f6a90044229a84f6bd53a36069005957243394f58b0ced24964b4d0a",
+      "uid": "037ec6291976bc6de2c2f6ac7efb1300",
+      "username": "mynameisdom"
+    },
+    "merkle_root": {
+      "ctime": 1535983817,
+      "hash_meta": "96aa9fdfddec8264da2c288941db56a39c46c8854f462031b116ae7e3d59a087",
+      "seqno": 3556299
+    },
+    "revoke": {
+      "sig_ids": [
+        "450f789cc5987806e2f7de5866002c2052550cf54882c50ff20c55362a3fba390f"
+      ]
+    },
+    "service": {
+      "hostname": "blog.ipsaloquitur.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1535983821,
+  "expire_in": 157680000,
+  "prev": "c2ccee3403c9b8471b6fe246d3e07de32c2b1ac2a3deffaca9bf57476e58b91a",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMK+AnicrVNriBVVHN/ddrVuJRZExVriEJFwWc97zrm2FAUbuRhGpIYrl/Oae6f7
+mOvM7OMiSyaJfXE1kkpEWHpIW7KLGSh+kFiXcCmzWIOQILIg+6Btbhab0HZmM4Lo
+Y/NlZg6//+91zpm6/aaWXOv+b0e7V0+t6Wr9ZHJnf8uWPY+e3e6pyDS9wnavYhdf
+tmpskhYrofEKHoAAagMFk9gwHDApACAEISE5CZgyFEvMAHOrVFAfEYwFCShXQFuD
+iGBEEQOkl/eCsF6ycSMO62lGiwkW0lALIOcGUhr4QlvKqIRMM4iEBoog6LvBcpRk
+E86ckontCiO35n6Ki/b+A/8/++7/iw77VjMkoPCZ0sxYpJEj1b4NFMQAZMDExnVZ
+sw5da2YfYWKimjec92o2rlRtMY6iNOtXp2GGghRTwTGHvssok3KxZlPphp1lKQIT
+GGM1R4wY6bQ4FwQaRV0coQnTnFMSEIYAhgpCJq1vsaFCAp5VkNht9cgrYEqdZeEc
+xHYgqthMPAlLrrnEK2zxCAWBz4XWzobPAbMo8I2lnDEAnCSgiFKgA0o4R9phAwQ0
+pZghiQPlfIDA2zqcicUDoV4kz7bqRgWqGpW6wkYiq9G2/jDtj7uiuOSsNeIojXRU
+dZBymjaSQlZQ2mxkM4NWFW+wFVVYN+7EuIkBGydhVHeFOeS/ukMw79mhRhjbYpgh
+qM84cE+mYwccpUZaW4sJwFooTnyoWGARYQZb4MJil1NBqV0kY4NAailUQH3iM9eD
+ElD+UyZizqcsOU5XYV26RNYbnvyor72lNdeypKMtu0otuVuW/33BRl5ZulC87v3x
+buc3z+3XE7vFNP2y5H88t7ztZMeVX8Ymk6Nvrd9wcLRn1eWe4/M7fx49shqOH9ux
++elln3YvPRD3Xl3xQ+fM3Nqr676+9lk6tD5ZtfDkpV+XvcCeOdjWfuVUz8gScfHC
+iU1n5x87zd9cyH3/0PX8b1Pjpxb4xq3Pf7j5wfsLh/ds+F3su7d05sJsafbQO/e9
++vLcmTvnpiuHVtzaOTb81ck7zOHJ5lNvv6d2PVIeG0nuei1Z+eOOI+3nj08kavfa
+Mtw4/cW5mXXfHTixz/ugOlK+2De4643ezsZ495q9L52+NnP+3PsTg23jjbHc7M3z
+Lw5dXvnAwx3H+p5N7n69eU/+idt6L/Gf9n7++J/nf4gK
+=E00Y
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mynameisdom
+
+==================================================================

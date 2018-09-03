@@ -1,0 +1,19 @@
+---
+author: admin
+comments: true
+date: 2011-09-03 19:26:46+00:00
+layout: post
+slug: oh-snap
+title: Oh Snap
+wordpress_id: 878
+categories:
+- The News
+---
+
+From the Christian Science Monitor: [the US government is suing banks for making lousy loans](http://www.csmonitor.com/Business/Latest-News-Wires/2011/0903/Faulty-mortgage-loans-catch-up-with-17-big-banks)!
+
+> A U.S. regulator sued 17 large banks and financial institutions Friday over losses on about $200 billion of subprime bonds, which may hamper a broader government settlement of the mortgage mess left over from the housing crisis.
+>
+> The lawsuits by the Federal Housing Finance Agency, which oversees Fannie Mae and Freddie Mac, surprised investors, dragging down bank shares and could add billions of dollars of legal costs at perhaps the worst possible time for the industry.
+
+Ahem. bahahahaha

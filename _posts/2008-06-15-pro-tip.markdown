@@ -1,0 +1,9 @@
+---
+date: 2008-06-15 07:31:10+00:00
+layout: post
+title: Pro Tip
+categories:
+- Legal Theory
+---
+
+When you file a lawsuit, it's probably a good idea to spell your client's name the same way on each page. I mean, I'm not a judge or anything, but misspelling your client's name probably doesn't make a good impression.

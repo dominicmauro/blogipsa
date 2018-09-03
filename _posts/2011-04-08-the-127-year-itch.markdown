@@ -1,0 +1,27 @@
+---
+author: admin
+comments: true
+date: 2011-04-08 14:39:41+00:00
+layout: post
+slug: the-127-year-itch
+title: The (12)7 Year Itch
+wordpress_id: 699
+categories:
+- The News
+---
+
+Harvard Law School has [published more than a century's worth of its exams](http://oasis.lib.harvard.edu/oasis/deliver/deepLink?_collection=oasis&uniqueId=law00237) for anyone who'd like to prove to themselves that taking law school exams for 127 straight years would suck. The Wall Street Journal's [Law Blog observes](http://blogs.wsj.com/law/2011/04/05/its-official-law-school-exams-used-to-be-easier/?mod=WSJBlog) that property exams have become undeniably easier in the last century-plus. I wondered the same for Criminal Law. Presented for your evaluation, from 1872's Criminal Law exam:
+
+> * What is necessary to constitute the crime of treason?
+> * What is necessary to constitute the plea of not guilty?
+> * What is the difference between larceny from the person and robbery?
+> * What is a felony? What a misdemeanor?
+
+Meanwhile, the first question to 1995's Criminal Law exam (presented after a two-page hypothetical situation that you can read in riveting detail [here](http://pds.lib.harvard.edu/pds/view/20082142?n=83&imagesize=2400&jp2Res=0.5&printThumbnails=no)):
+
+> * Should D be prosecuted for rape? If he is prosecuted for rape, to what extent and in what respects is his mental capacity relevant to his guilt or innocence?
+> * With respect to B's death, is D plausibly liable for any form of homicide?
+> * For what crimes, if any, is the waiter in the bar or the owner of the bar plausibly liable?
+> * With respect to the events that took place in July, of what crimes, if any, is D liable?
+
+I'm going with the WSJ Law Blog on this one. I'm going back to 1872 and getting my fancy Ivy League J.D. — heck, tuition was [less than $150 a year](http://kwharbaugh.blogspot.com/2005/02/educational-costs.html#harvard-tuition-history) back then!

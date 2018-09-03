@@ -1,0 +1,30 @@
+---
+author: admin
+comments: true
+date: 2008-06-22 16:28:32+00:00
+excerpt: 'When you file a lawsuit, you (hire a lawyer to) draft a letter to a court.  This
+  letter is called a complaint, and it is very long and obtuse and boring.  Following
+  receipt of the complaint, the court will issue a summons to the people named as
+  defendants in the complaint: this means that a lawsuit is officially almost underway,
+  and [...]'
+layout: post
+slug: pro-tip-2
+title: 'Pro Tip #2'
+wordpress_id: 10
+categories:
+- A Day in the Life
+---
+
+_As an aside: I think these ought to be called Amateur Tip, or 2L Knows Best, or something similar. I'll have to think about that._
+
+When you file a lawsuit, you (hire a lawyer to) draft a letter to a court. This letter is called a complaint, and it is very long and obtuse and boring. Following receipt of the complaint, the court will issue a summons to the people named as defendants in the complaint: this means that a lawsuit is officially almost underway, and that defendants should start defending themselves.
+
+As noted in the last [Pro Tip](http://almostlegally.com/?p=6), it's A Good Thing if your lawyer correctly spells your name in this document. I would like to add a corollary to that: if it's a good idea to spell the plaintiff's name correctly in the complaint, it's a good idea to spell the defendants' names correctly.
+
+On Thursday, I spent two hours running around the various personnel departments at work, looking for any employment records of a person who had been named as a defendant in a lawsuit against the government agency I work for. It's a big agency: this was no easy task. The only reason I found the person these folks _meant _to sue? A supervisor had noted the incident in what can only be described as a triumph of bureaucracy.
+
+Bureaucracy usually involves filling out endless amounts of forms and papers and such. This time, one of those forms helped me find the person being sued. Had it not been for all the paperwork government employees are required to fill out, we may never have been able to tell this person they were being sued.
+
+It might sound like A Bad Thing, but if you don't answer the summons, you automatically lose. So I'm glad we found this person in time to tell them to defend themselves from a lawsuit. On the other hand, collecting a judgment award against [a person that doesn't exist](http://www.pavelic.org/index.php/2007/11/22/private-detectives-ask-to-help-oj-find-killer/) could prove slightly tricky. I mean, a little.
+
+The bottom line? **When you file a lawsuit, getting the defendant's name right is kind of a big deal**.
