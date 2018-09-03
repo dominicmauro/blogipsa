@@ -7,29 +7,24 @@ article {
   @extend .margin-bottom-largest;
 
   // ----- post's header -----
-  
-
   .title {
-
 
 	h1 {
 	@extend .font-size-largest;
-	    font-family: ministry;
-  font-weight: 200;
+	font-family: ministry;
   font-size: 1.35rem;
-  line-height: 1.4rem;
+  font-weight: 200;
+  margin-bottom: 0;
   margin-top: 1.4rem;
-  margin-bottom: 0rem;
   text-align: left;
 	  a {
 		color: $text-color;
 	  }
 	  a:hover {
-		text-decoration: none;
-		color: #e61717;
+    color: #e61717;
+    text-decoration: none;
 	  }
 	}
-
 
   }
 
@@ -120,7 +115,7 @@ article {
   line-height: 1.2rem;
 	font-weight: 200;
 	font-style: italic;
-	
+
 	}
 
 	a.basic-alignment {
@@ -153,5 +148,3 @@ article {
 	font-weight: 300;
   }
 }
-
-
