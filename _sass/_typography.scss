@@ -54,7 +54,7 @@ ul {
 }
 
 p {
-  @extend .default-line-height;
+  @extend %default-line-height;
   hyphens: auto;
   text-align: left;
 

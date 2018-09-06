@@ -1,8 +1,8 @@
-.code-font {
+%code-font {
   font-family: Menlo, Monaco, "Andale Mono", "Courier New", monospace;
 }
 
-.sans-serif-font-bold {
+%sans-serif-font-bold {
   font-family: "ministry", "Helvetica Neue", Arial, sans-serif;
 }
 
@@ -10,10 +10,10 @@
   font-family: "ministry", "Helvetica Neue", Arial, sans-serif;
 }
 
-.header-font {
+%header-font {
   font-family: "ministry", "Helvetica Neue", sans-serif;
 }
 
-.default-font {
+%default-font {
   font-family: "freight-text-pro", Georgia, Times, "Times New Roman", serif;
 }

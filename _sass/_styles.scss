@@ -3,120 +3,129 @@
 // ------------------------------
 
 html {
-  @extend .default-font;
+  @extend %default-font;
   // border-top: 8px solid $accent-color;
   font-size: 20px;
   line-height: 28px;
 }
 
 body {
-  text-size-adjust: none;
-  -webkit-text-size-adjust: none; /* prevent mobile safari from resizing text */
-  background-color: #fff;
+  background-color: $background-color;
   color: $text-color;
-  text-align: center;
-  max-width: 30em;
-  margin: 0px auto;
+  margin: 0 auto;
   margin-top: 40px;
+  max-width: 30em;
+  text-align: center;
+  text-size-adjust: none;
+
+  header h1 a:hover {
+    color: $accent-hover-color;
+    text-decoration: none;
+  };
 }
 
 main {
   width: 550px;
 }
 
-
-h1, h2, h3, h4, h5, h6 {
-  @extend .sans-serif-font-bold;
-  text-rendering: optimizeLegibility;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @extend %sans-serif-font-bold;
   text-align: left;
+  text-rendering: optimizeLegibility;
+
 }
 
 a {
   color: $accent-color;
-  text-decoration: none;
   outline: none;
+  text-decoration: none;
   // @include transition(color 0.5s ease 0s);
 
   &:hover {
-  color: $accent-hover-color;
-  text-decoration: underline;
+    color: $accent-hover-color;
+    text-decoration: underline;
   }
 }
 
-body header h1 a:hover {
-  color: $accent-hover-color;
-  text-decoration: none;
-};
+
 
 section {
-  @extend .margin-bottom-largest;
+  @extend %margin-bottom-largest;
 }
 
 blockquote {
-  @extend .block-padding;
-  @extend .margin-bottom-large;
+  @extend %block-padding;
+  @extend %margin-bottom-large;
   border-left: $border-style;
   font-style: italic;
 
   p {
-   em {
-   font-style: normal !important;
-   }
-   margin-top: 0px;
-   margin-bottom: 0px;
+    em {
+      font-style: normal;
+    }
+
+    margin-bottom: 0;
+    margin-top: 0;
   }
 
 }
 
 
-cite, em, i, dfn {
+cite,
+em,
+i,
+dfn {
   font-style: italic;
 }
 
-b, strong {
+b,
+strong {
   font-weight: bold;
 }
 
 small {
-  font-size: 16px;
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
-sup, sub {
-  font-size: 14px;
-  font-size: 0.7rem;
+sup,
+sub {
+  font-size: .7rem;
   line-height: 0;
   position: relative;
 }
 
 sup {
-  top: -0.6rem;
+  top: -.6rem;
 }
 
 sub {
-  bottom: -0.4rem;
+  bottom: -.4rem;
 }
 
 img#portrait {
-  float: right;
   border-radius: 125px;
-  margin-left: 20px;
+  float: right;
   margin-left: 1rem;
   width: 240px;
 }
 
 
 pre {
-  @extend .block-padding;
-  @extend .font-size-small;
-  @extend .code-font;
-  @extend .margin-bottom-large;
-  text-align: left;
+  @extend %block-padding;
+  @extend %font-size-small;
+  @extend %code-font;
+  @extend %margin-bottom-large;
   line-height: 18px;
+  text-align: left;
 
   &.line-numbers {
-  @if $hide-line-numbers == true {
-    display: none;
+    @if $hide-line-numbers == true {
+      display: none;
   }
   }
 }
@@ -166,7 +175,7 @@ svg:hover {
 }
 
   header {
-    @extend .header-font;
+    @extend %header-font;
     width: 100%;
     margin: 0 auto;
   > h1 {
@@ -246,12 +255,12 @@ svg:hover {
   // ----- blog footer -----
 
   > footer {
-  @extend .margin-bottom-larger;
+  @extend %margin-bottom-larger;
   clear: both;
 
   p {
-    @extend .font-size-smallest;
-    @extend .header-font;
+    @extend %font-size-smallest;
+    @extend %header-font;
     color: $secondary-text-color;
     line-height: 20px;
     line-height: 1rem;
@@ -271,7 +280,7 @@ svg:hover {
   margin-bottom: 5.016rem;
 
   h2 {
-  @extend .sans-serif-font-bold;
+  @extend %sans-serif-font-bold;
   @extend .font-size-large;
   color: $text-color;
   font-weight: 400;
