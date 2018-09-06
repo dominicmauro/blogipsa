@@ -2,6 +2,7 @@
 layout: "post"
 title: "Greenwald on Conspiracy Theories"
 date: "2018-09-05 22:28"
+categories: "Staring into the abyss"
 ---
 
 The New Yorker’s Ian Parker wrote an exception profile of [Glenn Greenwald](https://www.newyorker.com/magazine/2018/09/03/glenn-greenwald-the-bane-of-their-resistance) for the September 3 issue. The full title of the profile is “The Bane of Their Resistance: a leftist journalist’s bruising crusade against establishment Democrats—and their Russia obsession.” Greenwald is a smart guy who doesn’t buy into the conspiracy theories of Russian election interference and collusion between the spies and the Trump campaign. For a long time, he seemed to reject the idea that Russia had done anything to the 2016 election; in this profile, it sometimes appears he thinks Russia didn’t do anything *wrong*.
