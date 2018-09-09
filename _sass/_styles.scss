@@ -65,12 +65,13 @@ blockquote {
   font-style: italic;
 
   p {
+    margin-bottom: 0;
+    margin-top: 0;
+
     em {
       font-style: normal;
     }
 
-    margin-bottom: 0;
-    margin-top: 0;
   }
 
 }
@@ -105,13 +106,6 @@ sup {
 
 sub {
   bottom: -.4rem;
-}
-
-img#portrait {
-  border-radius: 125px;
-  float: right;
-  margin-left: 1rem;
-  width: 240px;
 }
 
 
