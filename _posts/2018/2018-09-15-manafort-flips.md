@@ -1,6 +1,6 @@
 ---
-layout: "post"
-title: “Manafort Flips“
+layout: post
+title: Manafort Flips
 date: "2018-09-19 10:38"
 categories:
   - Merry Flipmas, Everyone
@@ -12,18 +12,18 @@ Manafort was indicted alongside his business partner Rick Gates in February 2018
 
 ### This is huge, right?
 
-Yeah, this seems pretty huge. We don’t know exactly what the SCO is thinking, but they’ve put a lot of effort to get Manafort to flip. That suggests they think Manafort has lots of information that would be helpful to the investigation into the Russian interference in the 2016 election. And if you read the plea agreement Manafort just signed, *he* seems to believe he has some pretty valuable information, too. It’s not impossible that both parties are mistaken about what the other thinks. This sort of thing happens sometimes. 
+Yeah, this seems pretty huge. We don’t know exactly what the SCO is thinking, but they’ve put a lot of effort to get Manafort to flip. That suggests they think Manafort has lots of information that would be helpful to the investigation into the Russian interference in the 2016 election. And if you read the plea agreement Manafort just signed, *he* seems to believe he has some pretty valuable information, too. It’s not impossible that both parties are mistaken about what the other thinks. This sort of thing happens sometimes.
 
-But I’m gonna Occam’s Razor this one: Manafort, the shadowy political operative for pro-Russian interests and whose top lieutenant was “[Kostya from the GRU][2]” and who owed millions of dollars to Bad Dudes In Russia, joined the Trump campaign within days of the GRU beginning its spearphishing campaign of the Clinton campaign. Manafort is later promoted to chairman of the Trump campaign two weeks after the infamous Trump Tower Meeting With All The Russians. That’s right about the time the Russians start dripping emails out for the rest of the campaign. Oh, and at no point during any of this does Manafort—again, millions of dollars in debt to Bad Dudes In Russia—take a paycheck from the Trump campaign. 
+But I’m gonna Occam’s Razor this one: Manafort, the shadowy political operative for pro-Russian interests and whose top lieutenant was “[Kostya from the GRU][2]” and who owed millions of dollars to Bad Dudes In Russia, joined the Trump campaign within days of the GRU beginning its spearphishing campaign of the Clinton campaign. Manafort is later promoted to chairman of the Trump campaign two weeks after the infamous Trump Tower Meeting With All The Russians. That’s right about the time the Russians start dripping emails out for the rest of the campaign. Oh, and at no point during any of this does Manafort—again, millions of dollars in debt to Bad Dudes In Russia—take a paycheck from the Trump campaign.
 
-You don’t need a security clearance or a J.D. to read that paragraph and see why the SCO wants to chat with Paul Manafort. But let’s take a closer look at what just happened. \<!--more--\>
+You don’t need a security clearance or a J.D. to read that paragraph and see why the SCO wants to chat with Paul Manafort. But let’s take a closer look at what just happened. <!--more-->
 
 ### For your information
 
 There are a couple ways to show up in front of a judge in federal court. One way is to be a badass lawyer nicknamed Mueller’s Pit Bull. But if you’re showing up as a defendant, you were either:
 
 1. Indicted by a grand jury: a dozen folks have looked at the most damning evidence against you and found there’s probably cause to think you’re guilty of whatever you’re accused of, or
-2. The subject of a criminal information: you waived your right to a grand jury, usually because you’re pleading guilty. 
+2. The subject of a criminal information: you waived your right to a grand jury, usually because you’re pleading guilty.
 
 Grand jury indictments can be quite lengthy. For example, the SCO’s indictments of the [Internet Research Agency][3] “troll farm” and the [Russian military intelligence operatives][4] are great reading. On the other hand, criminal informations (information is a noun here) are usually quite sparse because there wasn’t anything for a grand jury to vote on, and the prosecutor will file a separate document with all the details anyway. George Papadopoulos’s was a single page. Michael Flynn’s was a page and a half. For Paul Manafort, the criminal information is *thirty-eight pages*, with another thirty-eight pages of exhibits. It’s not unheard of for a prosecutor to file a lengthy information, but Federal Criminal Law Twitter seemed gobsmacked at the fact that there were exhibits to go with it. The more detail the SCO puts into the public domain about what a shady character Manafort is, the harder it becomes for the President to pardon Manafort.
 
@@ -37,13 +37,13 @@ The second conspiracy charge, the one regarding the witness tampering, is also n
 
 ### cooperation is key
 
-Okay, so that’s the stuff in the criminal information. It doesn’t tell us anything at all about The Russia Stuff, but we can try to read Mueller’s mind a little with the text of the plea agreement itself. 
+Okay, so that’s the stuff in the criminal information. It doesn’t tell us anything at all about The Russia Stuff, but we can try to read Mueller’s mind a little with the text of the plea agreement itself.
 
 Early news reports quoted the President’s lawyers, who suggested Manafort cooperating about some topics, but not on the SCO’s investigation of the President. Those reports were wrong. This agreement is absolutely unambiguous that Paul Manafort is going to help the SCO investigate whatever it wants to, including The Russia Stuff. This isn’t hard to figure out. There’s a whole section on cooperation, titled “8. Cooperation.” It starts:
 
 > [Manafort] shall cooperate fully, truthfully, completely, and forthrightly with the Government and other law enforcement entities identified by the Government in any and all matters to which the Government deems the cooperation relevant.
 
-Manafort agrees to attend all meetings the SCO invites him to, turn over all documents and material relevant to the SCO’s investigation, testify at any proceeding as requested by the SCO, and tell the truth at all times. There aren’t exceptions for certain matters or time periods. 
+Manafort agrees to attend all meetings the SCO invites him to, turn over all documents and material relevant to the SCO’s investigation, testify at any proceeding as requested by the SCO, and tell the truth at all times. There aren’t exceptions for certain matters or time periods.
 
 ### Here’s the Deal
 
@@ -51,7 +51,7 @@ Plea agreements are all about giving up something to get leniency, but Manafort 
 
 How bad is Manafort’s deal?
 
-1. Manafort pleads guilty to both conspiracies in the criminal information. 
+1. Manafort pleads guilty to both conspiracies in the criminal information.
 2. Manafort will forfeit five of his homes, three bank accounts, and a life insurance policy, as well as any property traceable to any of those. At last count, that’s about $46 million.
 3. Manafort agrees that the two conspiracy charges carry a minimum sentence of seventeen years, up to twenty-one years, and that he thinks that’s a fair sentence for him.
 4. Manafort agrees the statute of limitations does not apply to “any other crimes that the Government has agreed not to prosecute.” This means even if Manafort is pardoned, the SCO can go to a grand jury at any time and charge Manafort with all the crimes he just told the SCO he committed. You know, The Russia Stuff.
@@ -59,7 +59,7 @@ How bad is Manafort’s deal?
 In exchange, here’s what the government gives up:
 
 1. SCO agrees to dismiss the remaining DC charges as well as the ten remaining EDVA charges.
-2. The SCO agrees to recommend to the judge that the EDVA and DC sentences run concurrently, instead of consecutively. 
+2. The SCO agrees to recommend to the judge that the EDVA and DC sentences run concurrently, instead of consecutively.
 3. The SCO will recommend a lighter prison sentence for Manafort depending on how valuable the information he can provide is.
 
 First, even just the eight EDVA and two DC charges put Manafort in prison for decades. He dies an old man behind bars.
@@ -76,9 +76,9 @@ Why would Manafort agree to this terrible deal? Maybe he didn’t have much to o
 
 On the other hand, maybe Manafort has a lot to offer the SCO. Maybe the guy who ran the campaign knows… a lot about the campaign. Maybe the SCO knows that he’s a central figure, and that’s why they spent so much time securing this one cooperating witness, and writing a criminal information with exhibits, and making sure Manafort’s plea agreement is pardon-proof. In that hypothetical, Manafort might be willing to take a plea agreement that starts at seventeen years, knowing that the “oh holy shit” information he provides can knock his two sentences down to something like a handful of years in jail.
 
-Either way, I think we’re going to find out pretty soon. Mostly because of what Manafort can tell the SCO, but also because of what Marcy Wheeler calls [an awful game of prisoner’s dilemma][6]. Of the thirty-seven people in a joint defense agreement with the President, 
+Either way, I think we’re going to find out pretty soon. Mostly because of what Manafort can tell the SCO, but also because of what Marcy Wheeler calls [an awful game of prisoner’s dilemma][6]. Of the thirty-seven people in a joint defense agreement with the President,
 
-> Consider if you’re one of the other 37 (which might be down to 34 given known cooperators, or maybe even fewer given how uncertain Rudy seems to be about Don McGahn’s third session of testimony) members of the Joint Defense Agreement, especially if you’re one who has already testified before the grand jury about matters that Manafort (and Gates) might be able to refute. So long as there’s no chance Trump will be touched, you’re probably still safe, as you can count on Trump rewarding those who maintain the omertà or at the very least working to kill the Mueller inquiry shortly after the election. But if you have doubts about that — or concerns that other witnesses might have doubts about that — you still have an opportunity to recall the things you claimed you could not recall a year ago. 
+> Consider if you’re one of the other 37 (which might be down to 34 given known cooperators, or maybe even fewer given how uncertain Rudy seems to be about Don McGahn’s third session of testimony) members of the Joint Defense Agreement, especially if you’re one who has already testified before the grand jury about matters that Manafort (and Gates) might be able to refute. So long as there’s no chance Trump will be touched, you’re probably still safe, as you can count on Trump rewarding those who maintain the omertà or at the very least working to kill the Mueller inquiry shortly after the election. But if you have doubts about that — or concerns that other witnesses might have doubts about that — you still have an opportunity to recall the things you claimed you could not recall a year ago.
 
 For now.
 

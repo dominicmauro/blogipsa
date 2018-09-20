@@ -4,3 +4,6 @@ build.sh
 _site/
 _mdwriter.cson
 _drafts/
+_posts/.Ulysses-favorites.plist
+_posts/.Ulysses-Group.plist
+_posts/2018/.Ulysses-Group.plist
