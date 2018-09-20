@@ -8,7 +8,7 @@ categories:
 
 On Friday, twenty members of Special Counsel Bob Mueller’s team walked into a federal courtroom in Washington, D.C. with Paul Manafort. The attorney who the New York Times [described][1] as “Mueller’s Legal Pit Bull” spent thirty minutes detailing the charges against Manafort, who pleaded guilty to two conspiracy charges and signed a cooperation agreement with the Special Counsel’s Office (SCO). This agreement requires Manafort to give interviews and briefings to the SCO, turn over any documents he has to them, and testify in other proceedings on their behalf. We’ll get into that.
 
-Manafort was indicted alongside his business partner Rick Gates in February 2018, and while Gates began cooperating almost immediately, Manafort held out for more than six months. The SCO piled dozens of charges on him—successfully convicting him of eight felonies in a Virginia federal court—and was days away from prosecuting the second trial by the time Manafort pleaded guilty.
+Manafort was indicted alongside his business partner Rick Gates a few times, most recently in February 2018, and while Gates began cooperating almost immediately thereafter, Manafort held out for more than six months. The SCO piled dozens of charges on him—successfully convicting him of eight felonies in a Virginia federal court—and was days away from prosecuting the second trial by the time Manafort pleaded guilty.
 
 ### This is huge, right?
 
