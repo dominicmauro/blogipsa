@@ -30,7 +30,7 @@ and
 
 Now, the FBI’s New York Field Office, which would be responsible for collecting and reviewing information for the SDNY, has a certain reputation for leaking to the press. Notably, that’s the field office that in Fall 2016 repeatedly leaked salacious tidbits about the investigation into Her Emails. Without going into too much detail, I have an amount of firsthand experience in a previous job providing information to that particular FBI field office. That information tended to wind up in the press pretty swiftly thereafter.
 
-Given that experience, and idea that the IRS and Trump Organization aren’t going to leak this, it seemed to me the likeliest Times source for Fred Trump’s tax returns was the FBI’s New York Field Office. After the Cohen plea deal, the SDNY could have started sniffing around the Trump Organization proper. The CFO did receive limited immunity to testify in front of an SDNY grand jury, after all.
+Given that experience, and the idea that the IRS and Trump Organization aren’t going to leak this, it seemed to me the likeliest Times source for Fred Trump’s tax returns was the FBI’s New York Field Office. After the Cohen plea deal, the SDNY could have started sniffing around the Trump Organization proper. The CFO did receive limited immunity to testify in front of an SDNY grand jury, after all.
 
 I was pretty obsessed with the fact that the Times doesn’t appear to have examined any documents for which the statute of limitations hasn’t tolled. All this stuff with Fred Trump doing shady stuff in the 1980s isn’t enough to charge Fred with a crime. For one, he’s quite dead. Second, most criminal cases have an expiration date; a dozen bishops can witness you commit the crime, but if prosecutors wait too long, you can’t ever be convicted of it.
 
@@ -48,7 +48,7 @@ Now, the Times started their investigation in March 2017 because that was when M
 
 ### super quick tax dip
 
-In 1995, Trump reported a loss of $916 million on his taxes. (Casino went bankrupt. It was a whole thing.) Thanks to some particularly favorable tax rules for Limited Liability Corporations (LLCs), companies like Trump’s can spend twenty years deducting from their income the amount of money they lost in a given year.
+In 1995, Trump reported a loss of $916 million on his taxes. (Casino went bankrupt. It was a whole thing.) Thanks to some particularly favorable tax rules for Limited Liability Companies (LLCs), companies like Trump’s can spend twenty years deducting from their income the amount of money they lost in a given year.
 
 *Sidebar*: Do note that because of the way Trump structures his businesses, Trump reports his companies’ profits, losses, and deductions on his own personal income tax returns. For the tax purposes of this post, there’s no difference between a Trump company and Trump personally. It’s a whole thing, just go with it. Corporations are people, my friend: people with magical income tax superpowers.
 
