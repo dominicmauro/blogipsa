@@ -58,9 +58,9 @@ But if you have a NOL of $916 million in a single year, you can’t really deduc
 
 ### Trump’s Ten Years
 
-So when the NYT reported in October 2016 that Trump declared on his 1995 taxes a $916 million NOL, you could assume he wouldn’t pay taxes for a good long while. Heck, if you told me I didn’t owe taxes on my next $916 million, that would cover me for at least the next millennia or ten. It is suddenly obvious why the IRS put that twenty year limit on deducting NOL.
+So when the NYT reported in October 2016 that Trump declared on his 1995 taxes a $916 million NOL, you could assume he wouldn’t pay taxes for a good long while. Heck, if you told me I didn’t owe taxes on my next $916 million, that would cover me for at least the next millennium or ten. It is suddenly obvious why the IRS put that twenty year limit on deducting NOL.
 
-But then when Maddow put Trump’s 2015 income tax return on her show, there was $150 million in income. According to Suzanne Craig, that’s when the Times reporters realized that Trump had run out of that $916 million NOL about a decade early, and that something weird was going on with his finances.
+But then when Maddow put Trump’s 2015 income tax return on her show, there was $150 million in revenue. According to Suzanne Craig, that’s when the Times reporters realized that Trump had run out of that $916 million NOL about a decade early, and that something weird was going on with his finances.
 
 As it turns out, Donald Trump and his siblings sold off their late father’s business empire the year before. There hadn’t been a lot of publicity during the sale, and it sounds like the Times reporters realized that to understand what happened to Donald Trump’s finances, they had to understand more about Fred Trump’s finances. The more the Times researched, the more they realized the two were hopelessly intertwined with a series of increasingly… creative real estate arrangements.
 
