@@ -96,4 +96,4 @@ Regardless of what happens, Brelo has already faced more consequences for shooti
 [13]:	http://codes.ohio.gov/orc/2903.041
 [14]:	http://www.wkyc.com/story/news/local/cleveland/2015/04/22/day-13-of-michael-brelo-trial/26170785/
 
-[image-1]:	http://blog.ipsaloquitur.org/images/cleveland-shootout.jpg
+[image-1]:	http://blog.ipsaloquitur.org/assets/images/cleveland-shootout.jpg

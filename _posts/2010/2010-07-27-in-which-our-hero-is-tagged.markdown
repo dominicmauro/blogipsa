@@ -14,4 +14,4 @@ Well, that could have gone worse. I don't know how much I wrote, but my hand fee
 
 Additionally, I have to keep this bracelet on until tomorrow when the test is done. Now I know how all those gazelles on National Geographic feel.
 
-![](http://blog.ipsaloquitur.org/images/tagged.jpeg)
+![](http://blog.ipsaloquitur.org/assets/images/tagged.jpeg)

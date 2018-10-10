@@ -32,7 +32,7 @@ Decide instead to go with a VPS. You installed Ubuntu 5.04 in college; how hard 
 
 ### steps three through six
 
-![](http://blog.ipsaloquitur.org/images/success.png)
+![](http://blog.ipsaloquitur.org/assets/images/success.png)
 
 ### step seven
 

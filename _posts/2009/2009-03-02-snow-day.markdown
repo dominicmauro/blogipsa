@@ -18,6 +18,6 @@ As you get older, this phenomenon eventually tapers off, as you've realized how 
 
 But here I am in [New York City](http://lwf.ncdc.noaa.gov/oa/climate/online/ccd/snowfall.html), which apparently gets about two feet of snow per winter.  I'm way more excited than I thought I would be for a snow day, mostly because I was convinced I'd never get another snow day in my life.  Which is what led me to create Dominic's Icy Precipitate Postulate of '09.  Observe its elegant simplicity in chart form:
 
-![oh god how did this get here i am not good with bars](http://blog.ipsaloquitur.org/images/snowday1.png)
+![oh god how did this get here i am not good with bars](http://blog.ipsaloquitur.org/assets/images/snowday1.png)
 
 Look upon my works, ye employed, and despair!  I am nerd of nerds!

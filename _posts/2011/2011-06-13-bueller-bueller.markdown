@@ -12,7 +12,7 @@ categories:
 
 [Jezebel has a cute video](http://jezebel.com/5810927/the-criminal-lessons-of-ferris-bueller) highlighting the crimes of Ferris Bueller. Really, I think this just proves that Principal Rooney was the real hero of the film. Damn that kid!
 
-![Save Ferris](http://blog.ipsaloquitur.org/images/ferris.png)
+![Save Ferris](http://blog.ipsaloquitur.org/assets/images/ferris.png)
 
 The video shows Ferris committing:
 

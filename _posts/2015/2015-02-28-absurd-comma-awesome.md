@@ -12,7 +12,7 @@ When the first keyboards hit the App Store, I tried [Fleksy](http://fleksy.com),
 
 It's a high bar: the built-in keyboard on an iPhone is pretty great. [Since basically forever](http://www.cnet.com/news/iphone-keyboard-learns-what-you-type-dynamically-resizes-key-hot-zones/), it has automatically resized the targets for keys based on what it thinks users are about to type. Example: you type the letter W, and the area where you could tap to type H gets a lot larger than G or N or B or other letters. The phone makes it easier to type H and harder to type all the other letters which would make no sense after a W. [These changes](https://www.google.com/patents/US20130044063) are invisible to the user, but this is what it would look like if you could see what the keyboard "thinks" you're about to type:
 
-![](http://blog.ipsaloquitur.org/images/ios-keyboard.png)
+![](http://blog.ipsaloquitur.org/assets/images/ios-keyboard.png)
 
 This makes the Apple keyboard the most accurate touchscreen keyboard I've ever used. I assume Fleksy and Swype both provide some similar feature to improve users' typing, but it never felt like either keyboard was as accurate as the default iOS one. Less accurate typing means more time correcting your own words, which means less time actually typing. Typing on a phone is slow enough without having to go back every third word and fix it.<!--more-->
 
@@ -48,7 +48,7 @@ The first is common to all third-party keyboards on iOS: it's [prone](http://ipa
 
 And then there are the options. 
 
-<img src="http://blog.ipsaloquitur.org/images/nintype-options-1.png" style="display: inline-block; max-width: 45%; margin-right:5%" /> <img src="http://blog.ipsaloquitur.org/images/nintype-options-2.png" style="display: inline-block; max-width: 45%" />
+<img src="http://blog.ipsaloquitur.org/assets/images/nintype-options-1.png" style="display: inline-block; max-width: 45%; margin-right:5%" /> <img src="http://blog.ipsaloquitur.org/assets/images/nintype-options-2.png" style="display: inline-block; max-width: 45%" />
 
 An incomplete listing of options *screens* is on the left, and a sample screen is on the right. Nintype has page after page after page of tweaks, modules, features, and buttons for everything. It's utterly overwhelming. There are hundreds of boxes to tick and values to adjust. I have no idea what most of them do. Some of them carry grave warnings like "do not disable!" which makes you wonder why there's even an option there at all. I'm almost surprised Nintype doesn't come with a text editor and a copy of its own source code for users to edit and recompile, Gentoo-style. 
 

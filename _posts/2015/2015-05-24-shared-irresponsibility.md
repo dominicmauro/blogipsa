@@ -63,7 +63,7 @@ Happy Memorial Day, everybody.
 [1]:	http://blog.ipsaloquitur.org/post/forty-nine-bullets/
 [2]:	http://www.washingtonpost.com/sf/investigative/2015/04/11/thousands-dead-few-prosecuted/
 [3]:	http://www.nytimes.com/2015/05/24/us/michael-brelo-cleveland-police-officer-acquitted-of-manslaughter-in-2012-deaths.html?smid=nytnow-share&smprod=nytnow&_r=0
-[4]:	http://blog.ipsaloquitur.org/images/breloverdict.pdf
+[4]:	http://blog.ipsaloquitur.org/assets/images/breloverdict.pdf
 [5]:	http://www.courts.state.ny.us/reporter/archives/p_dlugash.htm
 [6]:	http://en.wikipedia.org/wiki/Impossibility_defense
 [7]:	http://www.supremecourt.gov/opinions/13pdf/12-7515_21p3.pdf

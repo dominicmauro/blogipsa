@@ -10,7 +10,7 @@ categories:
 - A Day in the Life
 ---
 
-[![who really cares about law school anyway](http://blog.ipsaloquitur.org/images/2008/11/bankrupt1.jpg)
+[![who really cares about law school anyway](http://blog.ipsaloquitur.org/assets/images/2008/11/bankrupt1.jpg)
 
 I'm not really sure what to make of this. There are 17 million results for "should I go to law school?" and only 1 million for "should I go bankrupt?" "Should I go blonde" has more results than those two trifling issues **combined**.
 
