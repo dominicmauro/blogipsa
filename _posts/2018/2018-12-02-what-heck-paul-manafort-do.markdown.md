@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What The Heck Did Paul Manafort Just Do?
+title: What The Heck Did Paul Manafort Do?
 date: 2018-12-02
 categories: 
 - Pardon Me, Sir
