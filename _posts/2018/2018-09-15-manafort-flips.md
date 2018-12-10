@@ -68,7 +68,7 @@ Second, running those two sentences concurrently doesn’t really… matter. Man
 
 And then there’s the money! Remember in the EDVA case, the jury did not convict Manafort of the charges with $16m in forfeiture provisions. There’s no guarantee he would have lost the retrial, or that the DC jury would have convicted him of every single charge totaling the other $30 million in forfeiture. Sure, the oblique mention Manafort’s lawyer gave in a press conference about being happy to cooperate with the SCO as long as his family is safe and taken care of probably means the SCO didn’t seize *all* of Manafort’s known assets, but a $46 million write-down is a lot of money no matter how much you have left.
 
-<sidebar> Also, if you’re the conspiratorial sort, maybe that line about “safe and taken care of” means Manafort’s family is going into witness protection. Russian spies don’t just murder troublemakers and their loved ones in Russia anymore, folks. </sidebar>
+*Sidebar* Also, if you’re the conspiratorial sort, maybe that line about “safe and taken care of” means Manafort’s family is going into witness protection. Russian spies don’t just murder troublemakers and their loved ones in Russia anymore, folks.
 
 ### ok but why
 
