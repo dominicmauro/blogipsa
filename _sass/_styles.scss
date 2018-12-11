@@ -284,13 +284,14 @@ svg:hover {
   }
 
   article {
-  margin-bottom: 12px;
-  overflow: auto;
+  margin-bottom: 18px;
+  padding: 6px 0;
+  display: block;
+  clear: both;
 
   h1 {
     @extend .font-size-medium;
-    padding-bottom: 4.722px;
-    padding-bottom: 0.236rem;
+    padding: 0;
     margin: 0;
     font-weight: 300;
     line-height: 14px;
@@ -304,10 +305,6 @@ svg:hover {
     float: left;
   }
 
-
-
-  }
-
   time, footer {
   @extend .font-size-medium;
   @extend .sans-serif-font;
@@ -315,28 +312,22 @@ svg:hover {
   display: inline;
   float: right;
   font-weight: 200;
+  line-height: 14px;
   padding: 0;
-  vertical-align: top;
   margin: 0;
   }
-  span.categories {
-    text-transform: capitalize;
-  }
 }
 
-form {
-  text-align: left;
-  height: 50px;
-  font-size: 24px;
+  form {
+    text-align: left;
+    height: 50px;
+    font-size: 24px;
 
-  input.search {
-    font-size: 18px;
-    @extend .sans-serif-font;
+    input.search {
+      font-size: 18px;
+      @extend .sans-serif-font;
+    }
   }
-}
-
-#greatesthits {
-  margin-top: 15px;
 }
 
 // ------------------------------
@@ -349,17 +340,17 @@ form {
   margin-top: 20px;
   margin-top: 1rem;
 
-  > a {
-    display: none;
-  }
+    > a {
+      display: none;
+    }
 
-  p {
-    margin-top: 14.637px;
-    margin-top: .732rem;
-  }
+    p {
+      margin-top: 14.637px;
+      margin-top: .732rem;
+    }
 
-  time:after {
-    content: none;
-  }
+    time:after {
+      content: none;
+    }
   }
 }
