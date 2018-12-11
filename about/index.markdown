@@ -13,6 +13,6 @@ After law school, I spent time as an open data and freedom of information advoca
 
 ### Technology
 
-Blog Ipsa Loquitur is powered by [Jekyll](https://jekyllrb.com) and hosted on [GitHub Pages](https://pages.github.com). It’s typeset in Freight Text (the body typeface) Ministry (everything else), provided by [Adobe Typekit](https://typekit.com). Statistics are collected by [Fathom](https://usefathom.com).
+Blog Ipsa Loquitur is a [Jekyll](https://jekyllrb.com)-based site hosted on [GitHub Pages](https://pages.github.com). It’s typeset in Freight Text (the body typeface) Ministry (everything else), provided by [Adobe Typekit](https://typekit.com). Web analytics are collected by [Fathom](https://usefathom.com), which uses as little [data](https://usefathom.com/data/) about visitors as possible.
 
-Posts are written in [Ulysses](https://ulysses.app) for iOS and macOS, the blog’s source code is edited in [Atom](https://atom.io). You can view said source code at the Blog Ipsa Loquitur [GitHub repository](https://github.com/dominicmauro/blogipsa).
+Posts are written in [Ulysses](https://ulysses.app) for iOS and macOS, and source code is edited in [Visual Studio Code](https://code.visualstudio.com). You can view said source code at the Blog Ipsa Loquitur [GitHub repository](https://github.com/dominicmauro/blogipsa).
