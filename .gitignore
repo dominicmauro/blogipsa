@@ -2,7 +2,6 @@
 .sass-cache/
 build.sh
 _site/
-_mdwriter.cson
 _drafts/
 _posts/.Ulysses-favorites.plist
 _posts/.Ulysses-Group.plist
