@@ -6,14 +6,14 @@ categories:
   - BYO Tin Foil, Folks
 ---
 
-Yes, I did all read all 13,000 words of the New York Times’s unbelievable investigative report: [Trump Engaged in Suspect Tax Schemes as He Reaped Riches From His Father](https://www.nytimes.com/interactive/2018/10/02/us/politics/donald-trump-tax-schemes-fred-trump.html). What the Times found was what some folks had suspected for years: the President is less a master of the art of the deal and more a master of inheriting a real estate empire from his father. The President, with all the self-assuredness of a playground bully, responded to the report by calling it “defamatory” upon its publication, “misleading” later that night, and “often told” the following morning. As [David Frum pointed out](https://twitter.com/davidfrum/status/1047472356749443072), the President’s responses “are rapidly evolving from denial to acknowledgment” of the substance of the report.
+Yes, I did all read all 13,000 words of the New York Times’s unbelievable investigative report: [Trump Engaged in Suspect Tax Schemes as He Reaped Riches From His Father][1]. What the Times found was what some folks had suspected for years: the President is less a master of the art of the deal and more a master of inheriting a real estate empire from his father. The President, with all the self-assuredness of a playground bully, responded to the report by calling it “defamatory” upon its publication, “misleading” later that night, and “often told” the following morning. As [David Frum pointed out][2], the President’s responses “are rapidly evolving from denial to acknowledgment” of the substance of the report.
 
 That’s all well and good. The person whose presidential campaign sounded like a con man's has apparently been a con man for his entire life. It’s always nice to have your priors confirmed.
 
 But the most interesting part to me isn’t *what* the Times learned but *how* they learned it. <!--more--> Here’s what the Times has to say about it:
 
 > The Times’s investigation, based on a vast trove of confidential tax returns and financial records, reveals that Mr. Trump received the equivalent today of at least $413 million from his father’s real estate empire, starting when he was a toddler and continuing to this day.
->
+> 
 > The investigation also draws on tens of thousands of pages of confidential records — bank statements, financial audits, accounting ledgers, cash disbursement reports, invoices and canceled checks. Most notably, the documents include more than 200 tax returns from Fred Trump, his companies and various Trump partnerships and trusts. While the records do not include the president’s personal tax returns and reveal little about his recent business dealings at home and abroad, dozens of corporate, partnership and trust tax returns offer the first public accounting of the income he received for decades from various family enterprises.
 
 ### My Conspiracy Theory
@@ -42,9 +42,9 @@ So this story, in addition to documenting how Trump’s whole self-creation myth
 
 But I don’t think that’s how this report came about anymore.
 
-The Times graciously published a look [behind the scenes](https://www.nytimes.com/2018/10/02/insider/donald-trump-fred-tax-schemes-wealth.html) of their report; kind of a report on how they put together their report. Suzanne Craig, one of the reporters with a byline on this report, was on Rachel Maddow’s show the other night. Craig told Maddow the Times began their investigation on March 14, 2017. That’s more than a year before the SDNY flipped Cohen, and long before the Cohen matter was formally referred to SDNY from the Special Counsel’s Office, if I recall correctly.
+The Times graciously published a look [behind the scenes][3] of their report; kind of a report on how they put together their report. Suzanne Craig, one of the reporters with a byline on this report, was on Rachel Maddow’s show the other night. Craig told Maddow the Times began their investigation on March 14, 2017. That’s more than a year before the SDNY flipped Cohen, and long before the Cohen matter was formally referred to SDNY from the Special Counsel’s Office, if I recall correctly.
 
-Now, the Times started their investigation in March 2017 because that was when Maddow’s show featured [a handful of pages](https://www.youtube.com/watch?v=0eB-xjDMGdQ) from Trump’s 2005 tax return. The Times had [already published](https://www.nytimes.com/2016/10/02/us/politics/donald-trump-taxes.html) part of Trump’s 1995 tax return, so Craig and her colleagues found the 2005 tax return especially intriguing. Why’s that? Let’s take a super quick dip into income tax law.
+Now, the Times started their investigation in March 2017 because that was when Maddow’s show featured [a handful of pages][4] from Trump’s 2005 tax return. The Times had [already published][5] part of Trump’s 1995 tax return, so Craig and her colleagues found the 2005 tax return especially intriguing. Why’s that? Let’s take a super quick dip into income tax law.
 
 ### super quick tax dip
 
@@ -60,7 +60,7 @@ But if you have a NOL of $916 million in a single year, you can’t really deduc
 
 So when the NYT reported in October 2016 that Trump declared on his 1995 taxes a $916 million NOL, you could assume he wouldn’t pay taxes for a good long while. Heck, if you told me I didn’t owe taxes on my next $916 million, that would cover me for at least the next millennium or ten. It is suddenly obvious why the IRS put that twenty year limit on deducting NOL.
 
-But then when Maddow put Trump’s 2015 income tax return on her show, there was $150 million in revenue. According to Suzanne Craig, that’s when the Times reporters realized that Trump had run out of that $916 million NOL about a decade early, and that something weird was going on with his finances.
+But then when Maddow put Trump’s 2005 income tax return on her show, there was $150 million in revenue. According to Suzanne Craig, that’s when the Times reporters realized that Trump had run out of that $916 million NOL about a decade early, and that something weird was going on with his finances.
 
 As it turns out, Donald Trump and his siblings sold off their late father’s business empire the year before. There hadn’t been a lot of publicity during the sale, and it sounds like the Times reporters realized that to understand what happened to Donald Trump’s finances, they had to understand more about Fred Trump’s finances. The more the Times researched, the more they realized the two were hopelessly intertwined with a series of increasingly… creative real estate arrangements.
 
@@ -71,3 +71,9 @@ And then there’s this bit in the Times report:
 > John Walter, a favorite nephew of Fred Trump’s. Mr. Walter, who died in January, spent decades working for Fred Trump, primarily helping computerize his payroll and billing systems. He also was the unofficial keeper of Fred Trump’s personal and business papers, his basement crowded with boxes of old Trump financial records.
 
 Yeah, that might just be where the two hundred tax returns and tens of thousands of financial records came from. I’m going to go ahead and formally reject my conspiracy theory at this point. Sure, nothing says the Times *couldn’t* have filled in some of the gaps with the help of a certain FBI field office, but I don’t think reading between the lines of the report provides a modicum of evidence to support that.
+
+[1]:	https://www.nytimes.com/interactive/2018/10/02/us/politics/donald-trump-tax-schemes-fred-trump.html
+[2]:	https://twitter.com/davidfrum/status/1047472356749443072
+[3]:	https://www.nytimes.com/2018/10/02/insider/donald-trump-fred-tax-schemes-wealth.html
+[4]:	https://www.youtube.com/watch?v=0eB-xjDMGdQ
+[5]:	https://www.nytimes.com/2016/10/02/us/politics/donald-trump-taxes.html
