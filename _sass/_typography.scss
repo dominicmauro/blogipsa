@@ -14,7 +14,7 @@ body {
 
 .h1,
 h1 {
-  font-family: ministry;
+  @extend %header-font;
   font-size: 1.8rem;
   font-weight: 400;
   margin-bottom: 0;
@@ -24,7 +24,7 @@ h1 {
 
 .h2,
 h2 {
-  font-family: ministry;
+  @extend %header-font;
   font-size: 1rem;
   font-weight: 200;
   line-height: 1.4rem;
@@ -35,7 +35,7 @@ h2 {
 
 h3,
 .h3 {
-  font-family: ministry;
+  @extend %header-font;
   font-size: 1.35rem;
   font-weight: 200;
   line-height: 1.4rem;

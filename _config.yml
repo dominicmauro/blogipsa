@@ -20,6 +20,7 @@ baseurl:           "" # the subpath of your site, e.g. /blog
 url:               "https://blog.ipsaloquitur.org" # the base hostname & protocol for your site
 permalink:         /post/:title/
 future:            false
+author:            Dominic Mauro
 
 # Build settings
 markdown:          kramdown

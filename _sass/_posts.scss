@@ -8,7 +8,6 @@ article {
   .title {
     h1 {
       @extend %font-size-largest;
-      font-family: ministry;
       font-size: 1.35rem;
       font-weight: 200;
       line-height: 1.95rem;

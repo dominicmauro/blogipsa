@@ -1,11 +1,14 @@
-	<!DOCTYPE html>
+<!DOCTYPE html>
 <!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
 <!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
 <head>
   <meta charset="utf-8">
   <script>
-  (function(d) {
+    (function(d) {
     var config = {
       kitId: 'zxd7dfy',
       scriptTimeout: 3000,
@@ -14,9 +17,9 @@
     h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
   })(document);
 	</script>
-	<!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
-<script>
-(function(f, a, t, h, o, m){
+  <!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
+  <script>
+    (function(f, a, t, h, o, m){
     a[h]=a[h]||function(){
         (a[h].q=a[h].q||[]).push(arguments)
     };
@@ -26,29 +29,32 @@
     m.parentNode.insertBefore(o,m)
 })(document, window, '//fathomless-plains-20277.herokuapp.com/tracker.js', 'fathom');
 fathom('trackPageview');
-</script>
-<!-- / Fathom -->
-  <title>{% if page.title %}{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %} - {% endif %}{{ site.title }}</title>
+  </script>
+  <!-- / Fathom -->
+  <title>{% if page.title %}{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %} -
+    {% endif %}{{ site.title }}</title>
   <meta name="author" content="{{ site.author }}">
-  {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
+  {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content | raw_content }}{% endif
+  %}{% endcapture %}
   <meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
+  {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url |
+  remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
 
   <link rel="canonical" href="{{ canonical }}">
   <link href="{{ root_url }}/assets/css/main.css" media="screen" rel="stylesheet" type="text/css">
-	<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
-	<link rel="manifest" href="/assets/images/site.webmanifest">
-	<link rel="mask-icon" href="/assets/images/safari-pinned-tab.svg">
-	<link rel="shortcut icon" href="/assets/images/favicon.ico">
-	<meta name="msapplication-TileColor" content="#b91d47">
-	<meta name="msapplication-config" content="/assets/images/browserconfig.xml">
-	<meta name="theme-color" content="#ffffff">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+  <link rel="manifest" href="/assets/images/site.webmanifest">
+  <link rel="mask-icon" href="/assets/images/safari-pinned-tab.svg">
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+  <meta name="msapplication-TileColor" content="#b91d47">
+  <meta name="msapplication-config" content="/assets/images/browserconfig.xml">
+  <meta name="theme-color" content="#ffffff">
   {% feed_meta %}
   <link type="application/json" rel="alternate" href="{{ site.url }}/feed.json">
 
