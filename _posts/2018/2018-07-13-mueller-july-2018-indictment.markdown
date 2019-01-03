@@ -8,7 +8,7 @@ categories:
 
 Today, Special Counsel Bob Mueller’s team of attorneys filed an [indictment](https://www.justice.gov/file/1080281/download) against twelve Russian nationals in a US District Court. This is the Special Counsel’s third indictment with Russian defendants; because Russia does not extradite its nationals to the US, it’s vanishingly unlikely any of these folks will see the inside of a jail cell or even a courtroom.
 
-You’ll remember that in February 2018, the Special Counsel indicted three Russian companies and thirteen Russian nationals for “violating U.S. criminal laws in order to interfere with U.S. elections and political processes.” Today’s indictment is different because these defendants were’t stirring up Twitter drama and committing a little light wire fraud. The July 2018 defendants are all members of Russian military intelligence services with the GRU. The indictment provides their names, ranks, workplace locations, and a couple of fun surprises.
+You’ll remember that in February 2018, the Special Counsel indicted three Russian companies and thirteen Russian nationals for “violating U.S. criminal laws in order to interfere with U.S. elections and political processes.” Today’s indictment is different because these defendants weren’t stirring up Twitter drama and committing a little light wire fraud. The July 2018 defendants are all members of Russian military intelligence services with the GRU. The indictment provides their names, ranks, workplace locations, and a couple of fun surprises.
 
 ### Things that jumped out at me
 
