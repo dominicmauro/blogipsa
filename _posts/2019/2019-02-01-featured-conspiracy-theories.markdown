@@ -1,5 +1,3 @@
-
-@: 2019-02-01-featured-conspiracy-theories
 ---
 layout: post
 title: Featured Conspiracy Theories
