@@ -3,7 +3,7 @@ layout: post
 title: Who Hurt You?
 date: 2019-01-31
 categories: 
-- We Are Never Getting Back At Leopads
+- We Are Never Ever Getting Back At Leopards
 ---
 
 While we’re all enjoying the three weeks during which the federal government is funded, [here’s Paul Kafasis][1] getting hung up on what might be the most important ‘dispatch from a red state’ piece the New York Times has done since the election:
