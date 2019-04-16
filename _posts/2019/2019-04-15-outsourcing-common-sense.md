@@ -1,4 +1,3 @@
-@: 2019-04-15-outsourcing-common-sense
 ---
 layout: post
 title: Outsourcing Common Sense
