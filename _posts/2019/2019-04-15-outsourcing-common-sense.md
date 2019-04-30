@@ -6,7 +6,7 @@ categories:
 - Just Hire Humans Already
 ---
 
-Today, the Notre Dame cathedral caught fire. While more than one person on Twitter made the point that watching something beautiful burn while you look on helplessly was a pretty good metaphor for 2019, this report from Ryan Broderick of Buzzfeed News was extremely 2019:
+Today, the Notre Dame cathedral caught fire. While more than one person on Twitter made the point that watching something beautiful burn while you look on helplessly was a pretty good metaphor for 2019, [this report](https://www.buzzfeednews.com/article/ryanhatesthis/youtube-notre-dame-fire-livestreams) from Ryan Broderick of Buzzfeed News was extremely 2019:
 
 > Several news outlets quickly started livestreaming the fire on YouTube. However, underneath several of them was a small gray panel titled "September 11 attacks," which contained a snippet from an Encyclopedia Britannica article about 9/11.
 > 
