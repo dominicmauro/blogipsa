@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "He's So Asking For It"
+title: He Is So Asking For It
 date: 2014-08-24 11:14:05 -0400
 categories: 
 - Dear Future Employers
@@ -18,7 +18,7 @@ This one does offer a new kind of silliness: mansplaining!
 
 How unreasonable that people who overwhelmingly commit sexual assaults have the **sole responsibility** to prevent sexual assault. It's such a burden to constantly not take things that you want when someone doesn't literally chain it to a bike rack. That metaphor might have fallen apart at the end there, because, as Jessica Valenti put it:
 
-https://twitter.com/JessicaValenti/status/502512367641833472
+/[Tweet Not Found]
 
 Hey, Chris Herries of Stanford University was definitely not suggesting that you bike-lock your vagina. He was simply suggesting that you treat every guy like he's going to assault you, because it's unfair to ask men to not commit crimes.
 
