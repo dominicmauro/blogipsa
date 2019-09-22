@@ -3,7 +3,5 @@
 build.sh
 _site/
 _drafts/
-_posts/.Ulysses-favorites.plist
-_posts/.Ulysses-Group.plist
-_posts/2018/.Ulysses-Group.plist
-_posts/2019/.Ulysses-Group.plist
+**/.Ulysses-favorites.plist
+**/.Ulysses-Group.plist
