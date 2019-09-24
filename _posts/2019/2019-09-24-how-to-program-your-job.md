@@ -1,4 +1,3 @@
-@: 2019-09-24-how-to-program-your-job
 ---
 layout: post
 title: What Happens When You Program Your Job
