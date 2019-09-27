@@ -21,7 +21,9 @@ body {
   header h1 a:hover {
     color: $accent-hover-color;
     text-decoration: none;
-  };
+  }
+
+  ;
 }
 
 main {
@@ -118,9 +120,9 @@ pre {
   text-align: left;
 
   &.line-numbers {
-    @if $hide-line-numbers == true {
+    @if $hide-line-numbers==true {
       display: none;
-  }
+    }
   }
 }
 
@@ -140,10 +142,11 @@ code {
 pre {
   padding: 8px 12px;
   overflow-x: auto;
-  > code {
-  border: 0;
-  padding-right: 0;
-  padding-left: 0;
+
+  >code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
   }
 }
 
@@ -156,55 +159,58 @@ body {
 
   // ----- blog header -----
 
-  [class^="icon-"], [class*=" icon-"] {
+  [class^="icon-"],
+  [class*=" icon-"] {
     height: 1.6rem;
     width: 1.6rem;
     margin-bottom: -4px;
     fill: black;
 
-}
+  }
 
-svg:hover {
-  fill: $accent-color;
-}
+  svg:hover {
+    fill: $accent-color;
+  }
 
   header {
     @extend %header-font;
     width: 100%;
     margin: 0 auto;
-  > h1 {
 
-    font-family: ministry;
-  font-weight: 400;
-  text-align: center;
-  font-size: 1.8rem;
-  line-height: 2.8rem;
-  margin-top: 1.4rem;
-  margin-bottom: 0rem;
+    >h1 {
 
-    display: inline-block;
-    text-transform: lowercase;
-    a {
-        color: $text-color;
-    }
-  }
-
-  #nav {
-    clear: both;
       font-family: ministry;
-  text-align: center;
-  font-weight: 200;
-  font-size: 1rem;
-  line-height: 1.4rem;
-  margin-top: 0rem;
-  margin-bottom: 2.8rem;
-  }
+      font-weight: 400;
+      text-align: center;
+      font-size: 1.8rem;
+      line-height: 2.8rem;
+      margin-top: 1.4rem;
+      margin-bottom: 0rem;
+
+      display: inline-block;
+      text-transform: lowercase;
+
+      a {
+        color: $text-color;
+      }
+    }
+
+    #nav {
+      clear: both;
+      font-family: ministry;
+      text-align: center;
+      font-weight: 200;
+      font-size: 1rem;
+      line-height: 1.4rem;
+      margin-top: 0rem;
+      margin-bottom: 2.8rem;
+    }
 
   }
 
   // ----- blog content -----
 
-  div.title > h1 {
+  div.title>h1 {
     margin-bottom: 6px;
     font-weight: 200;
     @extend .font-size-large;
@@ -219,7 +225,7 @@ svg:hover {
 
   // ------ pagination buttons ------
 
-    .pagination {
+  .pagination {
     @extend .sans-serif-font;
     padding: 23.683px 0;
     padding: 1.184rem 0;
@@ -228,7 +234,8 @@ svg:hover {
     margin-top: -2.236rem;
 
 
-    span, a {
+    span,
+    a {
       border-radius: $border-radius-size;
       padding: 4.722px 12.361px;
       padding: 0.236rem 0.618rem;
@@ -248,19 +255,19 @@ svg:hover {
 
   // ----- blog footer -----
 
-  > footer {
-  @extend %margin-bottom-larger;
-  clear: both;
+  >footer {
+    @extend %margin-bottom-larger;
+    clear: both;
 
-  p {
-    @extend %font-size-smallest;
-    @extend %header-font;
-    color: $secondary-text-color;
-    line-height: 20px;
-    line-height: 1rem;
-    font-weight: 100;
-    text-align: center;
-  }
+    p {
+      @extend %font-size-smallest;
+      @extend %header-font;
+      color: $secondary-text-color;
+      line-height: 20px;
+      line-height: 1rem;
+      font-weight: 100;
+      text-align: center;
+    }
   }
 }
 
@@ -274,49 +281,53 @@ svg:hover {
   margin-bottom: 5.016rem;
 
   h2 {
-  @extend %sans-serif-font-bold;
-  @extend .font-size-large;
-  color: $text-color;
-  font-weight: 400;
-  margin-top: 24px;
-  margin-bottom: 12px;
+    @extend %sans-serif-font-bold;
+    @extend .font-size-large;
+    color: $text-color;
+    font-weight: 400;
+    margin-top: 24px;
+    margin-bottom: 12px;
 
   }
 
   article {
-  margin-bottom: 18px;
-  padding: 6px 0;
-  display: block;
-  clear: both;
+    margin-bottom: 18px;
+    padding: 6px 0;
+    display: block;
+    clear: both;
 
-  h1 {
-    @extend .font-size-medium;
-    padding: 0;
-    margin: 0;
-    font-weight: 300;
-    line-height: 14px;
-    a {
-      color: $text-color;
-      &:hover {
-        text-decoration: none;
-        color: $accent-color;
+    h1 {
+      @extend .font-size-medium;
+      padding: 0;
+      margin: 0;
+      font-weight: 300;
+      line-height: 14px;
+
+      a {
+        color: $text-color;
+
+        &:hover {
+          text-decoration: none;
+          color: $accent-color;
+        }
       }
-    }
-    float: left;
-  }
 
-  time, footer {
-  @extend .font-size-medium;
-  @extend .sans-serif-font;
-  color: $secondary-text-color;
-  display: inline;
-  float: right;
-  font-weight: 200;
-  line-height: 14px;
-  padding: 0;
-  margin: 0;
+      float: left;
+    }
+
+    time,
+    footer {
+      @extend .font-size-medium;
+      @extend .sans-serif-font;
+      color: $secondary-text-color;
+      display: inline;
+      float: right;
+      font-weight: 200;
+      line-height: 14px;
+      padding: 0;
+      margin: 0;
+    }
   }
-}
 
   form {
     text-align: left;
@@ -336,11 +347,11 @@ svg:hover {
 
 #search_results {
   article {
-  margin-left: 0;
-  margin-top: 20px;
-  margin-top: 1rem;
+    margin-left: 0;
+    margin-top: 20px;
+    margin-top: 1rem;
 
-    > a {
+    >a {
       display: none;
     }
 
