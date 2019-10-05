@@ -117,10 +117,18 @@ pre {
   @extend %code-font;
   @extend %margin-bottom-large;
   line-height: 18px;
+  overflow-x: auto;
+  padding: 8px 12px;
   text-align: left;
 
+  >code {
+    border: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
   &.line-numbers {
-    @if $hide-line-numbers==true {
+    @if $hide-line-numbers == true {
       display: none;
     }
   }
@@ -128,28 +136,16 @@ pre {
 
 pre,
 code {
-  font-size: 15px;
+  background-color: #eee;
   border: 1px solid #ddd;
   border-radius: 3px;
-  background-color: #eee;
+  font-size: 15px;
   margin-top: 32px;
 }
 
 code {
   padding: 1px 5px;
 }
-
-pre {
-  padding: 8px 12px;
-  overflow-x: auto;
-
-  >code {
-    border: 0;
-    padding-right: 0;
-    padding-left: 0;
-  }
-}
-
 
 // ------------------------------
 // blog structure
@@ -321,7 +317,6 @@ body {
       @extend .sans-serif-font;
       color: $secondary-text-color;
       display: inline;
-      float: right;
       font-weight: 200;
       line-height: 14px;
       padding: 0;
