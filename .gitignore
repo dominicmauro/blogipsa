@@ -1,5 +1,6 @@
 .DS_Store
 .sass-cache/
+_mdwriter.cson
 build.sh
 _site/
 _drafts/

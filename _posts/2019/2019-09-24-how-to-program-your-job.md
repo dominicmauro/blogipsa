@@ -2,19 +2,19 @@
 layout: post
 title: What Happens When You Program Your Job
 date: 2019-09-24
-categories: 
+categories:
 - Work Smarter, But Not Too Smart, Not Harder
 ---
 
 Brian Merchant in The Atlantic, on what happens when you learn [How to Program Your Job](https://www.theatlantic.com/technology/archive/2018/10/agents-of-automation/568795/):
 
 > In 2016, an anonymous [confession](https://www.reddit.com/r/cscareerquestions/comments/4km3yc/finally_fired_after_6_years/) appeared on Reddit: “From around six years ago up until now, I have done nothing at work.” As far as office confessions go, that might seem pretty tepid. But this coder, posting as FiletOFish1066, said he worked for a well-known tech company, and he really meant *nothing*. He wrote that within eight months of arriving on the quality-assurance job, he had fully automated his entire workload. “I am not joking. For 40 hours each week, I go to work, play League of Legends in my office, browse Reddit, and do whatever I feel like. In the past six years, I have maybe done 50 hours of real work.” When his bosses realized that he’d worked less in half a decade than most Silicon Valley programmers do in a week, they fired him.
-> 
+>
 > The tale quickly [went viral in tech corners of the web](https://boingboing.net/2016/06/08/coder-fired-after-6-years-for.html), ultimately prompting its protagonist to delete not just the post, but his entire account.
-> 
+>
 > About a year later, someone calling himself or herself Etherable[ posted a query](https://workplace.stackexchange.com/questions/93696/is-it-unethical-for-me-to-not-tell-my-employer-i-ve-automated-my-job) to Workplace on Stack Exchange, one of[ the web’s most important forums for programmers](http://nymag.com/selectall/2017/03/the-hidden-power-of-stack-overflow.html): “Is it unethical for me to not tell my employer I’ve automated my job?” The conflicted coder described accepting a programming gig that had turned out to be “glorified data entry”—and, six months ago, writing scripts that put the entire job on autopilot. After that, “what used to take the last guy like a month, now takes maybe 10 minutes.” The job was full-time, with benefits, and allowed Etherable to work from home. The program produced near-perfect results; for all management knew, its employee simply did flawless work.
 
-The machines are coming for our jobs, but some jobs sooner than others. And some parts of some jobs sooner, as well: computer programs can do some parts of lawyering quite well right now, and much faster than I can do it. For example, they're good at reading millions of emails to decide if there's anything unusual or remarkable in them. Computer programs can also do a pretty good job on your taxes and your will, although you won't be around to be upset that they screwed up the latter. And when it comes to posing a legal argument in a motion or a brief, I don't think there are programs that understand and parse legal arguments (yet). 
+The machines are coming for our jobs, but some jobs sooner than others. And some parts of some jobs sooner, as well: computer programs can do some parts of lawyering quite well right now, and much faster than I can do it. For example, they're good at reading millions of emails to decide if there's anything unusual or remarkable in them. Computer programs can also do a pretty good job on your taxes and your will, although you won't be around to be upset that they screwed up the latter. And when it comes to posing a legal argument in a motion or a brief, I don't think there are programs that understand and parse legal arguments (yet).
 
 Merchant's reporting on accounts of people who've automated their job seems to uncover a lot of jobs that sound relatively easy to automate: moving data from database A to database B, and so on. You can do a lot with a couple of Excel formulas. I'm surprised at how many companies fire people for automating these jobs, but I suppose you can make an argument that companies aren't paying an employee for *results*, they're paying an employee for their *time*. To those companies, they don't care how long it takes you to manually move data from one place to another, they want you to spend 40 hours a week moving it. On the other hand, if you ran out of data to move, they wouldn't ask you to start drafting legal documents or designing advertising campaigns; you're hired to do a thing.
 

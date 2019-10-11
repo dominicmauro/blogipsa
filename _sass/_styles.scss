@@ -157,10 +157,10 @@ body {
 
   [class^="icon-"],
   [class*=" icon-"] {
-    height: 1.6rem;
-    width: 1.6rem;
-    margin-bottom: -4px;
     fill: black;
+    height: 1.6rem;
+    margin-bottom: -4px;
+    width: 1.6rem;
 
   }
 
@@ -170,20 +170,20 @@ body {
 
   header {
     @extend %header-font;
-    width: 100%;
     margin: 0 auto;
+    width: 100%;
 
     >h1 {
 
-      font-family: ministry;
-      font-weight: 400;
-      text-align: center;
-      font-size: 1.8rem;
-      line-height: 2.8rem;
-      margin-top: 1.4rem;
-      margin-bottom: 0rem;
-
       display: inline-block;
+
+      font-family: ministry;
+      font-size: 1.8rem;
+      font-weight: 400;
+      line-height: 2.8rem;
+      margin-bottom: 0rem;
+      margin-top: 1.4rem;
+      text-align: center;
       text-transform: lowercase;
 
       a {
@@ -194,12 +194,12 @@ body {
     #nav {
       clear: both;
       font-family: ministry;
-      text-align: center;
-      font-weight: 200;
       font-size: 1rem;
+      font-weight: 200;
       line-height: 1.4rem;
-      margin-top: 0rem;
       margin-bottom: 2.8rem;
+      margin-top: 0rem;
+      text-align: center;
     }
 
   }
@@ -207,27 +207,27 @@ body {
   // ----- blog content -----
 
   div.title>h1 {
-    margin-bottom: 6px;
     font-weight: 200;
+    margin-bottom: 6px;
     @extend .font-size-large;
     text-align: left;
   }
 
   img {
-    max-width: 100%;
     display: block;
     margin: 0 auto;
+    max-width: 100%;
   }
 
   // ------ pagination buttons ------
 
   .pagination {
     @extend .sans-serif-font;
-    padding: 23.683px 0;
-    padding: 1.184rem 0;
     margin-bottom: 62px;
     margin-bottom: 3.1rem;
     margin-top: -2.236rem;
+    padding: 23.683px 0;
+    padding: 1.184rem 0;
 
 
     span,
@@ -259,9 +259,9 @@ body {
       @extend %font-size-smallest;
       @extend %header-font;
       color: $secondary-text-color;
+      font-weight: 100;
       line-height: 20px;
       line-height: 1rem;
-      font-weight: 100;
       text-align: center;
     }
   }
@@ -281,34 +281,34 @@ body {
     @extend .font-size-large;
     color: $text-color;
     font-weight: 400;
-    margin-top: 24px;
     margin-bottom: 12px;
+    margin-top: 24px;
 
   }
 
   article {
+    clear: both;
+    display: block;
     margin-bottom: 18px;
     padding: 6px 0;
-    display: block;
-    clear: both;
 
     h1 {
       @extend .font-size-medium;
-      padding: 0;
-      margin: 0;
+
+      float: left;
       font-weight: 300;
       line-height: 14px;
+      margin: 0;
+      padding: 0;
 
       a {
         color: $text-color;
 
         &:hover {
-          text-decoration: none;
           color: $accent-color;
+          text-decoration: none;
         }
       }
-
-      float: left;
     }
 
     time,
@@ -319,15 +319,15 @@ body {
       display: inline;
       font-weight: 200;
       line-height: 14px;
-      padding: 0;
       margin: 0;
+      padding: 0;
     }
   }
 
   form {
-    text-align: left;
-    height: 50px;
     font-size: 24px;
+    height: 50px;
+    text-align: left;
 
     input.search {
       font-size: 18px;
