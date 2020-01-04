@@ -289,16 +289,17 @@ body {
   article {
     clear: both;
     display: block;
-    margin-bottom: 18px;
-    padding: 6px 0;
+    margin-bottom: 0px;
+    max-width: 500px;
+    padding: 10px 0;
 
     h1 {
       @extend .font-size-medium;
-
       float: left;
       font-weight: 300;
-      line-height: 14px;
+      line-height: 18px;
       margin: 0;
+      max-width: 420px;
       padding: 0;
 
       a {
@@ -316,11 +317,13 @@ body {
       @extend .font-size-medium;
       @extend .sans-serif-font;
       color: $secondary-text-color;
-      display: inline;
+      display: inline-block;
+      float: right;
       font-weight: 200;
-      line-height: 14px;
+      line-height: 18px;
       margin: 0;
       padding: 0;
+      width: 80px;
     }
   }
 

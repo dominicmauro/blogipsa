@@ -87,11 +87,12 @@ DEPENDENCIES
   jekyll-github-metadata (~> 2.9)
   jekyll-paginate
   jekyll-sitemap
+  public_suffix
   redacre
   titlecase
 
 RUBY VERSION
-   ruby 2.5.1p57
+   ruby 2.6.5p114
 
 BUNDLED WITH
-   1.16.4
+   1.17.2
