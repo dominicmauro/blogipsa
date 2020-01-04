@@ -10,7 +10,7 @@ categories:
 - Legal Theory
 ---
 
-You've probably heard the crackerjack lawyers on Law and Order stand up and yell "objection, your honor!" when their opponents say or do something untoward. If the judge remembered to wear her mind reading helmet, or it's plainly obvious that the other attorney is engaging in shenanigans, the judge can sustain the objection without further explanation. However, most of the time, you're going to need to provide a reason for your objection. 
+You've probably heard the crackerjack lawyers on Law and Order stand up and yell "objection, your honor!" when their opponents say or do something untoward. If the judge remembered to wear her mind reading helmet, or it's plainly obvious that the other attorney is engaging in shenanigans, the judge can sustain the objection without further explanation. However, most of the time, you're going to need to provide a reason for your objection.
 
 One of the grounds for an objection is irrelevance: you can object to evidence that isn't relevant to an issue in the case. Filibustering is for legislation, not litigation - there are rules that prevent attorneys from dragging in irrelevant facts to confuse juries.
 
@@ -22,10 +22,7 @@ The first theory is pretty simple to understand: the loss of a loved one due to 
 
 A defendant can either attempt to lessen the damages he would owe by showing that the yearly amount of comfort was not as great as the plaintiff is making it out to be, or the defendant can try to show that the plaintiff (or the loved one) will/would not be around to receive/provide as much comfort as the plaintiff is claiming. Think of it like algebra:
 
-
 (**Comfort Provided Per Year**) x (**Years Both Loved One and Plaintiff Would Be Alive**) = **Damages**
-
-
 
 Reducing either variable will reduce the overall damages, but you might imagine that a defense of "well, she was going to die soon, and she didn't like you very much anyway" will not be very well-received by a jury.
 
