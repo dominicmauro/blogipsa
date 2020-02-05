@@ -6,7 +6,11 @@ categories:
 - Happy New Year We Are Doomed
 ---
 
+<<<<<<< HEAD
 The Senate's about to acquit the President for crimes even Republican senators seem to understand he committed. I keep thinking about [this December 2019 interview](https://www.rollingstone.com/politics/politics-news/how-disinformation-spreads-according-to-chuck-todd-interview-929912/) with Chuck Todd, the host of Meet The Press. And I keep thinking about Jay Rosen's summary of why [The Christmas Eve Confessions of Chuck Todd](http://pressthink.org/2019/12/the-christmas-eve-confessions-of-chuck-todd/) portend so poorly:
+=======
+The Senate's about to acquit the President for crimes even Republican senators seem to understand he committed. I keep thinking about [this December 2019 interview](https://www.rollingstone.com/politics/politics-news/how-disinformation-spreads-according-to-chuck-todd-interview-929912/) with Chuck Todd, the host of Meet The Press. And I keep thinking about Jay Rosen's summary of why [The Christmas Eve Confessions of Chuck Todd](http://pressthink.org/2019/12/the-christmas-eve-confessions-of-chuck-todd/) was so eyebrow-raising:
+>>>>>>> 2ab4fcd056baea7e03eec4eb2351a2ead311b61f
 
 > A key premise for Meet the Press is symmetry between the two major political parties. The whole show is built on that. But in the information sphere - the subject of Chuck Todd's confessions - asymmetry has taken command. The right wing ecosystem for news does not operate like the rest of the country's news system. And increasingly conservative politics is getting sucked into conservative media. It makes more sense to see Fox News and the Trump White House as two parts of the same organism. As these trends grind on they put stress on Meet the Press practices. But it takes imagination to see how the show might be affected- or changed. In place of that we have Chuck Todd pleading naiveté.
 >
