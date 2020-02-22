@@ -14,4 +14,4 @@ The Senate's acquitted the President for crimes even Republican senators seem to
 >
 > There is simply nothing in the playbook at Meet the Press that tells the producers what to do in this situation. As I have tried to show, they didn't arrive here through acts of naiveté, but by willful blindness, malpractice among the experts in charge, an insider's mentality, a listening breakdown, a failure of imagination, and sheer disbelief that the world could have changed so much upon people paid so well to understand it.
 
-Meet The Press isn't unique. This playbook—and the problems created when one party has lots its damn mind—is common to a lot of the press.
+Meet The Press isn't unique. This playbook—and the problems created when one party has lost its damn mind—is common to a lot of the press.
