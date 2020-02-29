@@ -2,6 +2,8 @@
 layout: "post"
 title: "Don McGahn's Optional Subpoena"
 date: "2020-02-28 23:37"
+categories:
+- Bench, Please
 ---
 
 Back in April 2019, the Committee on the Judiciary of the House of Representatives issued a subpoena to former White House Counsel Don McGahn, who refused to testify. McGahn argued that certain presidential advisers have "absolute" immunity from Congressional subpoenas, and that the Constitution forbids federal courts from resolving this dispute. Today, a panel of the DC Circuit Court of Appeals [agreed with McGahn](https://www.justsecurity.org/wp-content/uploads/2020/02/Document.pdf) in a 2-1 opinion that the court shouldn't get in the middle of this, and I'm pretty flabbergasted. Let's take a look at what the heck just happened.
