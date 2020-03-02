@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asymmetrical
-date: 2020-02-04
+date: 2020-02-09
 categories:
 - Happy New Year We Are Doomed
 ---
