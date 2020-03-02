@@ -10,6 +10,7 @@ article {
       @extend %font-size-largest;
       font-size: 1.35rem;
       font-weight: 200;
+      hyphens: manual;
       line-height: 1.95rem;
       margin-bottom: 0;
       margin-top: 1.4rem;
@@ -25,13 +26,18 @@ article {
       }
     }
   }
-
-  p.meta {
-    @extend %header-font;
-    color: $secondary-text-color;
-
-    span.category {
-      text-transform: capitalize;
+  .published {
+    p.meta {
+      @extend %header-font;
+      color: $secondary-text-color;
+      font-size: .8rem;
+      line-height: .6rem;
+      font-weight: 200;
+      font-style: italic;
+      margin-bottom: 0.75rem;
+      span.category {
+        text-transform: capitalize;
+      }
     }
   }
   // ----- post's content -----
@@ -39,8 +45,6 @@ article {
     @extend %font-size-largest;
     margin-top: 62.000px;
     margin-top: 3.1rem;
-    margin-bottom: 20px;
-    margin-bottom: 1rem;
   }
 
   h2 {

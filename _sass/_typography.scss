@@ -54,7 +54,7 @@ p,
 pre,
 table,
 ul {
-  margin-bottom: 1.4rem;
+  @extend %margin-bottom-large;
   margin-top: 0;
 }
 
@@ -74,7 +74,7 @@ p {
 
 p + blockquote,
 p + p {
-  margin-top: 1.4rem;
+  margin-top: 1.618rem;
 }
 
 ol ol,
