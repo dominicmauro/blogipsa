@@ -2,44 +2,20 @@
 // general styles
 // ------------------------------
 
-html {
-  @extend %default-font;
-  // border-top: 8px solid $accent-color;
-  font-size: 20px;
-  line-height: 28px;
-}
-
 body {
   background-color: $background-color;
   color: $text-color;
   margin: 0 auto;
-  margin-top: 40px;
   max-width: 30em;
   text-align: center;
   text-size-adjust: none;
-
-  header h1 a:hover {
-    color: $accent-hover-color;
-    text-decoration: none;
+  header {
+    padding-top: 40px;
   }
-
-  ;
 }
 
 main {
   width: 550px;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  @extend %sans-serif-font-bold;
-  text-align: left;
-  text-rendering: optimizeLegibility;
-
 }
 
 a {
@@ -54,67 +30,30 @@ a {
   }
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  a {
+    color: $text-color;
+  }
 
+  a:hover {
+    color: #e61717;
+    text-decoration: none;
+  }
+}
 
 section {
   @extend %margin-bottom-largest;
 }
 
-blockquote {
-  @extend %block-padding;
-  @extend %margin-bottom-large;
-  border-left: $border-style;
-  font-style: italic;
-
-  p {
-    margin-bottom: 0;
-    margin-top: 0;
-
-    em {
-      font-style: normal;
-    }
-
-  }
-
-}
-
-
-cite,
-em,
-i,
-dfn {
-  font-style: italic;
-}
-
-b,
-strong {
-  font-weight: bold;
-}
-
-small {
-  font-size: .8rem;
-}
-
-sup,
-sub {
-  font-size: .7rem;
-  line-height: 0;
-  position: relative;
-}
-
-sup {
-  top: -.6rem;
-}
-
-sub {
-  bottom: -.4rem;
-}
-
-
 pre {
   @extend %block-padding;
   @extend %font-size-small;
-  @extend %code-font;
+  @extend .code-font;
   @extend %margin-bottom-large;
   line-height: 18px;
   overflow-x: auto;
@@ -169,20 +108,14 @@ body {
   }
 
   header {
-    @extend %header-font;
+    @extend .sans-serif-font;
     margin: 0 auto;
     width: 100%;
 
     >h1 {
-
+      @extend %font-size-largest;
       display: inline-block;
-
-      font-family: ministry;
-      font-size: 1.8rem;
       font-weight: 400;
-      line-height: 2.8rem;
-      margin-bottom: 0rem;
-      margin-top: 1.4rem;
       text-align: center;
       text-transform: lowercase;
 
@@ -192,31 +125,15 @@ body {
     }
 
     #nav {
+      @extend .font-size-medium;
+      @extend .sans-serif-font;
       clear: both;
-      font-family: ministry;
-      font-size: 1rem;
       font-weight: 200;
       line-height: 1.4rem;
       margin-bottom: 2.8rem;
-      margin-top: 0rem;
       text-align: center;
     }
 
-  }
-
-  // ----- blog content -----
-
-  div.title>h1 {
-    font-weight: 200;
-    margin-bottom: 6px;
-    @extend .font-size-large;
-    text-align: left;
-  }
-
-  img {
-    display: block;
-    margin: 0 auto;
-    max-width: 100%;
   }
 
   // ------ pagination buttons ------
@@ -257,7 +174,7 @@ body {
 
     p {
       @extend %font-size-smallest;
-      @extend %header-font;
+      @extend .sans-serif-font;
       color: $secondary-text-color;
       font-weight: 100;
       line-height: 20px;
@@ -277,7 +194,7 @@ body {
   margin-bottom: 5.016rem;
 
   h2 {
-    @extend %sans-serif-font-bold;
+    @extend .sans-serif-font;
     @extend .font-size-large;
     color: $text-color;
     font-weight: 400;
@@ -327,40 +244,5 @@ body {
       width: 80px;
     }
   }
-
-  form {
-    font-size: 24px;
-    height: 50px;
-    text-align: left;
-
-    input.search {
-      font-size: 18px;
-      @extend .sans-serif-font;
-    }
-  }
 }
 
-// ------------------------------
-// search results page
-// ------------------------------
-
-#search_results {
-  article {
-    margin-left: 0;
-    margin-top: 20px;
-    margin-top: 1rem;
-
-    >a {
-      display: none;
-    }
-
-    p {
-      margin-top: 14.637px;
-      margin-top: .732rem;
-    }
-
-    time:after {
-      content: none;
-    }
-  }
-}

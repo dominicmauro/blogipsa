@@ -1,12 +1,17 @@
+//
+// Just plain text here. Look elsewhere for markup.
+//
+
 .root,
 html {
+  @extend .default-font;
   font-size: 20px;
   line-height: 28px;
 }
 
 .article,
 body {
-  font-family: 'freight-text-pro';
+  @extend .default-font;
   font-size: 1rem;
   line-height: 1.4rem;
   margin: auto;
@@ -19,38 +24,45 @@ body {
 
 .h1,
 h1 {
-  @extend %header-font;
-  font-size: 1.8rem;
-  font-weight: 400;
-  margin-bottom: 0;
-  margin-top: 1.4rem;
+  @extend .sans-serif-font;
   text-align: center;
 }
 
 .h2,
 h2 {
-  @extend %header-font;
-  font-size: 1rem;
+  @extend .sans-serif-font;
+  @extend .font-size-large;
   font-weight: 200;
+  text-align: left;
   line-height: 1.4rem;
-  margin-bottom: 0;
-  margin-top: 0;
-  text-align: center;
 }
 
 h3,
 .h3 {
-  @extend %header-font;
-  font-size: 1.35rem;
+  @extend .sans-serif-font;
+  @extend %default-line-height;
+  font-size: 1.4rem;
   font-weight: 200;
-  line-height: 1.4rem;
-  margin-bottom: 0;
+  margin-bottom: .1rem;
+  margin-top: 1rem;
+  text-transform: lowercase;
+  text-align: left;
+}
+
+p {
+  @extend %default-line-height;
+  hyphens: auto;
+  text-align: left;
+  margin-bottom: o;
+}
+
+p + blockquote,
+p + p {
   margin-top: 1.4rem;
 }
 
 blockquote,
 ol,
-p,
 pre,
 table,
 ul {
@@ -58,32 +70,27 @@ ul {
   margin-top: 0;
 }
 
-p {
-  @extend %default-line-height;
-  hyphens: auto;
-  text-align: left;
+blockquote {
+  @extend %block-padding;
+  @extend %margin-bottom-large;
+  border-left: $border-style;
+  font-style: italic;
 
-  a {
-    text-decoration: none;
+  p {
+    margin-bottom: 0;
+    margin-top: 0;
+
+    em {
+      font-style: normal;
+    }
+
   }
 
-  a:hover {
-    text-decoration: underline;
-  }
 }
 
-p + blockquote,
-p + p {
-  margin-top: 1.618rem;
-}
 
-ol ol,
-ol ul,
-ul ol,
-ul ul {
-  margin-bottom: 0;
-  margin-top: 0;
-}
+
+
 // Let's make sure all's aligned
 hr .hr {
   border: 1px solid;
@@ -100,8 +107,25 @@ strong {
   line-height: 0;
 }
 
+cite,
+em,
+i,
+dfn {
+  font-style: italic;
+}
+
+b,
+strong {
+  font-weight: bold;
+}
+
+small {
+  font-size: .8rem;
+}
+
 sub,
 sup {
+  font-size: .7rem;
   line-height: 0;
   position: relative;
   vertical-align: baseline;

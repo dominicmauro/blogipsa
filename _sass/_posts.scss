@@ -4,69 +4,23 @@
 
 article {
   @extend %margin-bottom-largest;
-  // ----- post's header -----
-  .title {
-    h1 {
-      @extend %font-size-largest;
-      font-size: 1.35rem;
-      font-weight: 200;
-      hyphens: manual;
-      line-height: 1.95rem;
-      margin-bottom: 0;
-      margin-top: 1.4rem;
-      text-align: left;
 
-      a {
-        color: $text-color;
-      }
-
-      a:hover {
-        color: #e61717;
-        text-decoration: none;
-      }
-    }
-  }
   .published {
     p.meta {
-      @extend %header-font;
+      @extend .sans-serif-font;
+      @extend %font-size-small;
       color: $secondary-text-color;
-      font-size: .8rem;
       line-height: .6rem;
       font-weight: 200;
       font-style: italic;
       margin-bottom: 0.75rem;
+      padding-top: .6rem;
       span.category {
         text-transform: capitalize;
       }
     }
   }
   // ----- post's content -----
-  h1 {
-    @extend %font-size-largest;
-    margin-top: 62.000px;
-    margin-top: 3.1rem;
-  }
-
-  h2 {
-    font-size: 30.56px;
-    font-size: 1.528rem;
-    /* 1.618 - 0.09 */
-    text-transform: uppercase;
-    margin-top: 52.358px;
-    margin-top: 2.618rem;
-    margin-bottom: 9.046px;
-    margin-bottom: 0.452rem;
-  }
-
-  h3 {
-    font-size: 30.56px;
-    font-size: 1.528rem;
-    /* 1.618 - 0.09 */
-    text-transform: lowercase;
-    margin-top: 24px;
-    margin-bottom: 9.44px;
-    font-weight: 300;
-  }
 
   ol,
   ul {
@@ -95,28 +49,29 @@ article {
     list-style-type: decimal;
   }
 
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+
   li code,
   p > code {
     @extend .code-keywords;
-    @extend %code-font;
+    @extend .code-font;
     font-size: 17.56px;
     font-size: 0.878rem;
     /* 0.732 + 0.146 */
   }
   // ----- post's footer -----
+
   footer {
     @extend .sans-serif-font;
+    @extend %font-size-small;
+    font-weight: 200;
+    overflow: auto;
     padding-top: 12.361px;
     padding-top: 0.618rem;
-
-    > p.meta {
-      overflow: auto;
-      text-align: left;
-      font-size: .8rem;
-      line-height: 1.2rem;
-      font-weight: 200;
-      font-style: italic;
-    }
 
     a.basic-alignment {
       @extend .button;
