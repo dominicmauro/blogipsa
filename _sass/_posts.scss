@@ -3,8 +3,6 @@
 // ------------------------------
 
 article {
-  @extend %margin-bottom-largest;
-
   .published {
     p.meta {
       @extend .sans-serif-font;
