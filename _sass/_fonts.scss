@@ -9,3 +9,8 @@
 .default-font {
   font-family: "freight-text-pro", Georgia, Times, "Times New Roman", serif;
 }
+
+.test-font {
+  font-family: "fanwood";
+  src: url("/assets/fonts/fanwood_text-webfont.woff") format('woff');
+}
