@@ -29,3 +29,4 @@ gem 'jekyll-feed'
 # end
 
 gem "jekyll-github-metadata", "~> 2.9"
+gem "webrick", "~> 1.7"
