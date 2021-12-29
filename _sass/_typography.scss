@@ -72,18 +72,20 @@ ul {
 
 blockquote {
   @extend %block-padding;
-  @extend %margin-bottom-large;
   border-left: $border-style;
   font-style: italic;
-
+  
   p {
-    margin-bottom: 0;
-    margin-top: 0;
-
-    em {
+	em {
       font-style: normal;
     }
-
+	margin-top: 0;
+  }
+  
+  p:not(:last-child) {
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 1.4rem;
   }
 
 }
